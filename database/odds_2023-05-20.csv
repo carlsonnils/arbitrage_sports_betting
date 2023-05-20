@@ -1,0 +1,501 @@
+ID,Game_ID,Team,Line,Book,Home_Team,Away_Team,Start_Time,League,Line_Update
+c85afa0b4cf351a9f23f9384556fbd80,0,Los Angeles Angels,1.02,draftkings,Los Angeles Angels,Minnesota Twins,2023-05-19 21:38:00,MLB,2023-05-20 00:19:14
+c85afa0b4cf351a9f23f9384556fbd80,0,Minnesota Twins,14.0,draftkings,Los Angeles Angels,Minnesota Twins,2023-05-19 21:38:00,MLB,2023-05-20 00:19:14
+c85afa0b4cf351a9f23f9384556fbd80,0,Los Angeles Angels,1.02,fanduel,Los Angeles Angels,Minnesota Twins,2023-05-19 21:38:00,MLB,2023-05-20 00:18:57
+c85afa0b4cf351a9f23f9384556fbd80,0,Minnesota Twins,19.0,fanduel,Los Angeles Angels,Minnesota Twins,2023-05-19 21:38:00,MLB,2023-05-20 00:18:57
+c85afa0b4cf351a9f23f9384556fbd80,0,Los Angeles Angels,1.01,betmgm,Los Angeles Angels,Minnesota Twins,2023-05-19 21:38:00,MLB,2023-05-20 00:19:44
+c85afa0b4cf351a9f23f9384556fbd80,0,Minnesota Twins,29.0,betmgm,Los Angeles Angels,Minnesota Twins,2023-05-19 21:38:00,MLB,2023-05-20 00:19:44
+c85afa0b4cf351a9f23f9384556fbd80,0,Los Angeles Angels,1.01,unibet_us,Los Angeles Angels,Minnesota Twins,2023-05-19 21:38:00,MLB,2023-05-20 00:18:57
+c85afa0b4cf351a9f23f9384556fbd80,0,Minnesota Twins,16.0,unibet_us,Los Angeles Angels,Minnesota Twins,2023-05-19 21:38:00,MLB,2023-05-20 00:18:57
+c85afa0b4cf351a9f23f9384556fbd80,0,Los Angeles Angels,1.07,twinspires,Los Angeles Angels,Minnesota Twins,2023-05-19 21:38:00,MLB,2023-05-20 00:18:47
+c85afa0b4cf351a9f23f9384556fbd80,0,Minnesota Twins,8.0,twinspires,Los Angeles Angels,Minnesota Twins,2023-05-19 21:38:00,MLB,2023-05-20 00:18:47
+c85afa0b4cf351a9f23f9384556fbd80,0,Los Angeles Angels,1.07,sugarhouse,Los Angeles Angels,Minnesota Twins,2023-05-19 21:38:00,MLB,2023-05-20 00:18:39
+c85afa0b4cf351a9f23f9384556fbd80,0,Minnesota Twins,7.0,sugarhouse,Los Angeles Angels,Minnesota Twins,2023-05-19 21:38:00,MLB,2023-05-20 00:18:39
+c85afa0b4cf351a9f23f9384556fbd80,0,Los Angeles Angels,1.01,barstool,Los Angeles Angels,Minnesota Twins,2023-05-19 21:38:00,MLB,2023-05-20 00:19:11
+c85afa0b4cf351a9f23f9384556fbd80,0,Minnesota Twins,16.0,barstool,Los Angeles Angels,Minnesota Twins,2023-05-19 21:38:00,MLB,2023-05-20 00:19:11
+c85afa0b4cf351a9f23f9384556fbd80,0,Los Angeles Angels,1.14,foxbet,Los Angeles Angels,Minnesota Twins,2023-05-19 21:38:00,MLB,2023-05-20 00:21:41
+c85afa0b4cf351a9f23f9384556fbd80,0,Minnesota Twins,5.0,foxbet,Los Angeles Angels,Minnesota Twins,2023-05-19 21:38:00,MLB,2023-05-20 00:21:41
+c85afa0b4cf351a9f23f9384556fbd80,0,Los Angeles Angels,1.35,mybookieag,Los Angeles Angels,Minnesota Twins,2023-05-19 21:38:00,MLB,2023-05-20 00:24:06
+c85afa0b4cf351a9f23f9384556fbd80,0,Minnesota Twins,3.1,mybookieag,Los Angeles Angels,Minnesota Twins,2023-05-19 21:38:00,MLB,2023-05-20 00:24:06
+c85afa0b4cf351a9f23f9384556fbd80,0,Los Angeles Angels,1.03,pointsbetus,Los Angeles Angels,Minnesota Twins,2023-05-19 21:38:00,MLB,2023-05-20 00:19:04
+c85afa0b4cf351a9f23f9384556fbd80,0,Minnesota Twins,14.0,pointsbetus,Los Angeles Angels,Minnesota Twins,2023-05-19 21:38:00,MLB,2023-05-20 00:19:04
+39af70ee8cdc4ac5884a0071f63e812a,1,Miami Marlins,8.5,draftkings,San Francisco Giants,Miami Marlins,2023-05-19 22:15:00,MLB,2023-05-20 00:27:32
+39af70ee8cdc4ac5884a0071f63e812a,1,San Francisco Giants,1.08,draftkings,San Francisco Giants,Miami Marlins,2023-05-19 22:15:00,MLB,2023-05-20 00:27:32
+39af70ee8cdc4ac5884a0071f63e812a,1,Miami Marlins,9.0,bovada,San Francisco Giants,Miami Marlins,2023-05-19 22:15:00,MLB,2023-05-20 00:31:54
+39af70ee8cdc4ac5884a0071f63e812a,1,San Francisco Giants,1.06,bovada,San Francisco Giants,Miami Marlins,2023-05-19 22:15:00,MLB,2023-05-20 00:31:54
+39af70ee8cdc4ac5884a0071f63e812a,1,Miami Marlins,10.6,fanduel,San Francisco Giants,Miami Marlins,2023-05-19 22:15:00,MLB,2023-05-20 00:28:37
+39af70ee8cdc4ac5884a0071f63e812a,1,San Francisco Giants,1.05,fanduel,San Francisco Giants,Miami Marlins,2023-05-19 22:15:00,MLB,2023-05-20 00:28:37
+39af70ee8cdc4ac5884a0071f63e812a,1,Miami Marlins,8.33,circasports,San Francisco Giants,Miami Marlins,2023-05-19 22:15:00,MLB,2023-05-20 00:25:42
+39af70ee8cdc4ac5884a0071f63e812a,1,San Francisco Giants,1.08,circasports,San Francisco Giants,Miami Marlins,2023-05-19 22:15:00,MLB,2023-05-20 00:25:42
+39af70ee8cdc4ac5884a0071f63e812a,1,Miami Marlins,8.25,betmgm,San Francisco Giants,Miami Marlins,2023-05-19 22:15:00,MLB,2023-05-20 00:31:54
+39af70ee8cdc4ac5884a0071f63e812a,1,San Francisco Giants,1.06,betmgm,San Francisco Giants,Miami Marlins,2023-05-19 22:15:00,MLB,2023-05-20 00:31:54
+39af70ee8cdc4ac5884a0071f63e812a,1,Miami Marlins,9.5,twinspires,San Francisco Giants,Miami Marlins,2023-05-19 22:15:00,MLB,2023-05-20 00:31:51
+39af70ee8cdc4ac5884a0071f63e812a,1,San Francisco Giants,1.05,twinspires,San Francisco Giants,Miami Marlins,2023-05-19 22:15:00,MLB,2023-05-20 00:31:51
+39af70ee8cdc4ac5884a0071f63e812a,1,Miami Marlins,8.5,sugarhouse,San Francisco Giants,Miami Marlins,2023-05-19 22:15:00,MLB,2023-05-20 00:31:43
+39af70ee8cdc4ac5884a0071f63e812a,1,San Francisco Giants,1.05,sugarhouse,San Francisco Giants,Miami Marlins,2023-05-19 22:15:00,MLB,2023-05-20 00:31:43
+39af70ee8cdc4ac5884a0071f63e812a,1,Miami Marlins,9.5,barstool,San Francisco Giants,Miami Marlins,2023-05-19 22:15:00,MLB,2023-05-20 00:31:43
+39af70ee8cdc4ac5884a0071f63e812a,1,San Francisco Giants,1.05,barstool,San Francisco Giants,Miami Marlins,2023-05-19 22:15:00,MLB,2023-05-20 00:31:43
+39af70ee8cdc4ac5884a0071f63e812a,1,Miami Marlins,9.5,unibet_us,San Francisco Giants,Miami Marlins,2023-05-19 22:15:00,MLB,2023-05-20 00:31:29
+39af70ee8cdc4ac5884a0071f63e812a,1,San Francisco Giants,1.05,unibet_us,San Francisco Giants,Miami Marlins,2023-05-19 22:15:00,MLB,2023-05-20 00:31:29
+39af70ee8cdc4ac5884a0071f63e812a,1,Miami Marlins,7.0,mybookieag,San Francisco Giants,Miami Marlins,2023-05-19 22:15:00,MLB,2023-05-20 00:31:31
+39af70ee8cdc4ac5884a0071f63e812a,1,San Francisco Giants,1.09,mybookieag,San Francisco Giants,Miami Marlins,2023-05-19 22:15:00,MLB,2023-05-20 00:31:31
+39af70ee8cdc4ac5884a0071f63e812a,1,Miami Marlins,1.0,pointsbetus,San Francisco Giants,Miami Marlins,2023-05-19 22:15:00,MLB,2023-05-20 00:31:07
+39af70ee8cdc4ac5884a0071f63e812a,1,San Francisco Giants,1.0,pointsbetus,San Francisco Giants,Miami Marlins,2023-05-19 22:15:00,MLB,2023-05-20 00:31:07
+39af70ee8cdc4ac5884a0071f63e812a,1,Miami Marlins,7.0,foxbet,San Francisco Giants,Miami Marlins,2023-05-19 22:15:00,MLB,2023-05-20 00:30:36
+39af70ee8cdc4ac5884a0071f63e812a,1,San Francisco Giants,1.07,foxbet,San Francisco Giants,Miami Marlins,2023-05-19 22:15:00,MLB,2023-05-20 00:30:36
+9a3fb9ba8bc4a0f35b0ccbd6c0c6ae91,2,Chicago White Sox,1.57,draftkings,Chicago White Sox,Kansas City Royals,2023-05-20 14:10:00,MLB,2023-05-20 00:31:41
+9a3fb9ba8bc4a0f35b0ccbd6c0c6ae91,2,Kansas City Royals,2.5,draftkings,Chicago White Sox,Kansas City Royals,2023-05-20 14:10:00,MLB,2023-05-20 00:31:41
+9a3fb9ba8bc4a0f35b0ccbd6c0c6ae91,2,Chicago White Sox,1.56,betus,Chicago White Sox,Kansas City Royals,2023-05-20 14:10:00,MLB,2023-05-20 00:31:03
+9a3fb9ba8bc4a0f35b0ccbd6c0c6ae91,2,Kansas City Royals,2.6,betus,Chicago White Sox,Kansas City Royals,2023-05-20 14:10:00,MLB,2023-05-20 00:31:03
+9a3fb9ba8bc4a0f35b0ccbd6c0c6ae91,2,Chicago White Sox,1.5,foxbet,Chicago White Sox,Kansas City Royals,2023-05-20 14:10:00,MLB,2023-05-20 00:31:18
+9a3fb9ba8bc4a0f35b0ccbd6c0c6ae91,2,Kansas City Royals,2.45,foxbet,Chicago White Sox,Kansas City Royals,2023-05-20 14:10:00,MLB,2023-05-20 00:31:18
+9a3fb9ba8bc4a0f35b0ccbd6c0c6ae91,2,Chicago White Sox,1.53,williamhill_us,Chicago White Sox,Kansas City Royals,2023-05-20 14:10:00,MLB,2023-05-20 00:31:31
+9a3fb9ba8bc4a0f35b0ccbd6c0c6ae91,2,Kansas City Royals,2.58,williamhill_us,Chicago White Sox,Kansas City Royals,2023-05-20 14:10:00,MLB,2023-05-20 00:31:31
+9a3fb9ba8bc4a0f35b0ccbd6c0c6ae91,2,Chicago White Sox,1.55,betonlineag,Chicago White Sox,Kansas City Royals,2023-05-20 14:10:00,MLB,2023-05-20 00:31:31
+9a3fb9ba8bc4a0f35b0ccbd6c0c6ae91,2,Kansas City Royals,2.66,betonlineag,Chicago White Sox,Kansas City Royals,2023-05-20 14:10:00,MLB,2023-05-20 00:31:31
+9a3fb9ba8bc4a0f35b0ccbd6c0c6ae91,2,Chicago White Sox,1.56,lowvig,Chicago White Sox,Kansas City Royals,2023-05-20 14:10:00,MLB,2023-05-20 00:31:13
+9a3fb9ba8bc4a0f35b0ccbd6c0c6ae91,2,Kansas City Royals,2.66,lowvig,Chicago White Sox,Kansas City Royals,2023-05-20 14:10:00,MLB,2023-05-20 00:31:13
+9a3fb9ba8bc4a0f35b0ccbd6c0c6ae91,2,Chicago White Sox,1.54,mybookieag,Chicago White Sox,Kansas City Royals,2023-05-20 14:10:00,MLB,2023-05-20 00:31:31
+9a3fb9ba8bc4a0f35b0ccbd6c0c6ae91,2,Kansas City Royals,2.5,mybookieag,Chicago White Sox,Kansas City Royals,2023-05-20 14:10:00,MLB,2023-05-20 00:31:31
+9a3fb9ba8bc4a0f35b0ccbd6c0c6ae91,2,Chicago White Sox,1.54,bovada,Chicago White Sox,Kansas City Royals,2023-05-20 14:10:00,MLB,2023-05-20 00:31:54
+9a3fb9ba8bc4a0f35b0ccbd6c0c6ae91,2,Kansas City Royals,2.53,bovada,Chicago White Sox,Kansas City Royals,2023-05-20 14:10:00,MLB,2023-05-20 00:31:54
+9a3fb9ba8bc4a0f35b0ccbd6c0c6ae91,2,Chicago White Sox,1.57,fanduel,Chicago White Sox,Kansas City Royals,2023-05-20 14:10:00,MLB,2023-05-20 00:31:24
+9a3fb9ba8bc4a0f35b0ccbd6c0c6ae91,2,Kansas City Royals,2.46,fanduel,Chicago White Sox,Kansas City Royals,2023-05-20 14:10:00,MLB,2023-05-20 00:31:24
+9a3fb9ba8bc4a0f35b0ccbd6c0c6ae91,2,Chicago White Sox,1.54,wynnbet,Chicago White Sox,Kansas City Royals,2023-05-20 14:10:00,MLB,2023-05-20 00:28:28
+9a3fb9ba8bc4a0f35b0ccbd6c0c6ae91,2,Kansas City Royals,2.65,wynnbet,Chicago White Sox,Kansas City Royals,2023-05-20 14:10:00,MLB,2023-05-20 00:28:28
+9a3fb9ba8bc4a0f35b0ccbd6c0c6ae91,2,Chicago White Sox,1.52,circasports,Chicago White Sox,Kansas City Royals,2023-05-20 14:10:00,MLB,2023-05-20 00:31:16
+9a3fb9ba8bc4a0f35b0ccbd6c0c6ae91,2,Kansas City Royals,2.59,circasports,Chicago White Sox,Kansas City Royals,2023-05-20 14:10:00,MLB,2023-05-20 00:31:16
+9a3fb9ba8bc4a0f35b0ccbd6c0c6ae91,2,Chicago White Sox,1.51,barstool,Chicago White Sox,Kansas City Royals,2023-05-20 14:10:00,MLB,2023-05-20 00:31:43
+9a3fb9ba8bc4a0f35b0ccbd6c0c6ae91,2,Kansas City Royals,2.65,barstool,Chicago White Sox,Kansas City Royals,2023-05-20 14:10:00,MLB,2023-05-20 00:31:43
+9a3fb9ba8bc4a0f35b0ccbd6c0c6ae91,2,Chicago White Sox,1.49,twinspires,Chicago White Sox,Kansas City Royals,2023-05-20 14:10:00,MLB,2023-05-20 00:31:51
+9a3fb9ba8bc4a0f35b0ccbd6c0c6ae91,2,Kansas City Royals,2.65,twinspires,Chicago White Sox,Kansas City Royals,2023-05-20 14:10:00,MLB,2023-05-20 00:31:51
+9a3fb9ba8bc4a0f35b0ccbd6c0c6ae91,2,Chicago White Sox,1.51,sugarhouse,Chicago White Sox,Kansas City Royals,2023-05-20 14:10:00,MLB,2023-05-20 00:31:43
+9a3fb9ba8bc4a0f35b0ccbd6c0c6ae91,2,Kansas City Royals,2.65,sugarhouse,Chicago White Sox,Kansas City Royals,2023-05-20 14:10:00,MLB,2023-05-20 00:31:43
+9a3fb9ba8bc4a0f35b0ccbd6c0c6ae91,2,Chicago White Sox,1.51,unibet_us,Chicago White Sox,Kansas City Royals,2023-05-20 14:10:00,MLB,2023-05-20 00:31:29
+9a3fb9ba8bc4a0f35b0ccbd6c0c6ae91,2,Kansas City Royals,2.65,unibet_us,Chicago White Sox,Kansas City Royals,2023-05-20 14:10:00,MLB,2023-05-20 00:31:29
+9a3fb9ba8bc4a0f35b0ccbd6c0c6ae91,2,Chicago White Sox,1.51,betrivers,Chicago White Sox,Kansas City Royals,2023-05-20 14:10:00,MLB,2023-05-20 00:31:33
+9a3fb9ba8bc4a0f35b0ccbd6c0c6ae91,2,Kansas City Royals,2.65,betrivers,Chicago White Sox,Kansas City Royals,2023-05-20 14:10:00,MLB,2023-05-20 00:31:33
+9a3fb9ba8bc4a0f35b0ccbd6c0c6ae91,2,Chicago White Sox,1.53,superbook,Chicago White Sox,Kansas City Royals,2023-05-20 14:10:00,MLB,2023-05-20 00:31:18
+9a3fb9ba8bc4a0f35b0ccbd6c0c6ae91,2,Kansas City Royals,2.6,superbook,Chicago White Sox,Kansas City Royals,2023-05-20 14:10:00,MLB,2023-05-20 00:31:18
+9a3fb9ba8bc4a0f35b0ccbd6c0c6ae91,2,Chicago White Sox,1.54,betmgm,Chicago White Sox,Kansas City Royals,2023-05-20 14:10:00,MLB,2023-05-20 00:31:54
+9a3fb9ba8bc4a0f35b0ccbd6c0c6ae91,2,Kansas City Royals,2.5,betmgm,Chicago White Sox,Kansas City Royals,2023-05-20 14:10:00,MLB,2023-05-20 00:31:54
+bd4162a0260b0a3314227c1463c910c7,3,Baltimore Orioles,2.2,draftkings,Toronto Blue Jays,Baltimore Orioles,2023-05-20 15:07:00,MLB,2023-05-20 00:31:41
+bd4162a0260b0a3314227c1463c910c7,3,Toronto Blue Jays,1.71,draftkings,Toronto Blue Jays,Baltimore Orioles,2023-05-20 15:07:00,MLB,2023-05-20 00:31:41
+bd4162a0260b0a3314227c1463c910c7,3,Baltimore Orioles,2.25,betus,Toronto Blue Jays,Baltimore Orioles,2023-05-20 15:07:00,MLB,2023-05-20 00:31:03
+bd4162a0260b0a3314227c1463c910c7,3,Toronto Blue Jays,1.71,betus,Toronto Blue Jays,Baltimore Orioles,2023-05-20 15:07:00,MLB,2023-05-20 00:31:03
+bd4162a0260b0a3314227c1463c910c7,3,Baltimore Orioles,2.22,williamhill_us,Toronto Blue Jays,Baltimore Orioles,2023-05-20 15:07:00,MLB,2023-05-20 00:31:31
+bd4162a0260b0a3314227c1463c910c7,3,Toronto Blue Jays,1.69,williamhill_us,Toronto Blue Jays,Baltimore Orioles,2023-05-20 15:07:00,MLB,2023-05-20 00:31:31
+bd4162a0260b0a3314227c1463c910c7,3,Baltimore Orioles,2.29,betonlineag,Toronto Blue Jays,Baltimore Orioles,2023-05-20 15:07:00,MLB,2023-05-20 00:31:31
+bd4162a0260b0a3314227c1463c910c7,3,Toronto Blue Jays,1.71,betonlineag,Toronto Blue Jays,Baltimore Orioles,2023-05-20 15:07:00,MLB,2023-05-20 00:31:31
+bd4162a0260b0a3314227c1463c910c7,3,Baltimore Orioles,2.3,lowvig,Toronto Blue Jays,Baltimore Orioles,2023-05-20 15:07:00,MLB,2023-05-20 00:31:13
+bd4162a0260b0a3314227c1463c910c7,3,Toronto Blue Jays,1.71,lowvig,Toronto Blue Jays,Baltimore Orioles,2023-05-20 15:07:00,MLB,2023-05-20 00:31:13
+bd4162a0260b0a3314227c1463c910c7,3,Baltimore Orioles,2.15,foxbet,Toronto Blue Jays,Baltimore Orioles,2023-05-20 15:07:00,MLB,2023-05-20 00:31:18
+bd4162a0260b0a3314227c1463c910c7,3,Toronto Blue Jays,1.65,foxbet,Toronto Blue Jays,Baltimore Orioles,2023-05-20 15:07:00,MLB,2023-05-20 00:31:18
+bd4162a0260b0a3314227c1463c910c7,3,Baltimore Orioles,2.22,bovada,Toronto Blue Jays,Baltimore Orioles,2023-05-20 15:07:00,MLB,2023-05-20 00:31:54
+bd4162a0260b0a3314227c1463c910c7,3,Toronto Blue Jays,1.69,bovada,Toronto Blue Jays,Baltimore Orioles,2023-05-20 15:07:00,MLB,2023-05-20 00:31:54
+bd4162a0260b0a3314227c1463c910c7,3,Baltimore Orioles,2.19,mybookieag,Toronto Blue Jays,Baltimore Orioles,2023-05-20 15:07:00,MLB,2023-05-20 00:31:31
+bd4162a0260b0a3314227c1463c910c7,3,Toronto Blue Jays,1.68,mybookieag,Toronto Blue Jays,Baltimore Orioles,2023-05-20 15:07:00,MLB,2023-05-20 00:31:31
+bd4162a0260b0a3314227c1463c910c7,3,Baltimore Orioles,2.26,fanduel,Toronto Blue Jays,Baltimore Orioles,2023-05-20 15:07:00,MLB,2023-05-20 00:31:24
+bd4162a0260b0a3314227c1463c910c7,3,Toronto Blue Jays,1.68,fanduel,Toronto Blue Jays,Baltimore Orioles,2023-05-20 15:07:00,MLB,2023-05-20 00:31:24
+bd4162a0260b0a3314227c1463c910c7,3,Baltimore Orioles,2.3,wynnbet,Toronto Blue Jays,Baltimore Orioles,2023-05-20 15:07:00,MLB,2023-05-20 00:28:28
+bd4162a0260b0a3314227c1463c910c7,3,Toronto Blue Jays,1.69,wynnbet,Toronto Blue Jays,Baltimore Orioles,2023-05-20 15:07:00,MLB,2023-05-20 00:28:28
+bd4162a0260b0a3314227c1463c910c7,3,Baltimore Orioles,2.24,circasports,Toronto Blue Jays,Baltimore Orioles,2023-05-20 15:07:00,MLB,2023-05-20 00:31:16
+bd4162a0260b0a3314227c1463c910c7,3,Toronto Blue Jays,1.68,circasports,Toronto Blue Jays,Baltimore Orioles,2023-05-20 15:07:00,MLB,2023-05-20 00:31:16
+bd4162a0260b0a3314227c1463c910c7,3,Baltimore Orioles,2.2,sugarhouse,Toronto Blue Jays,Baltimore Orioles,2023-05-20 15:07:00,MLB,2023-05-20 00:31:43
+bd4162a0260b0a3314227c1463c910c7,3,Toronto Blue Jays,1.72,sugarhouse,Toronto Blue Jays,Baltimore Orioles,2023-05-20 15:07:00,MLB,2023-05-20 00:31:43
+bd4162a0260b0a3314227c1463c910c7,3,Baltimore Orioles,2.2,unibet_us,Toronto Blue Jays,Baltimore Orioles,2023-05-20 15:07:00,MLB,2023-05-20 00:31:29
+bd4162a0260b0a3314227c1463c910c7,3,Toronto Blue Jays,1.72,unibet_us,Toronto Blue Jays,Baltimore Orioles,2023-05-20 15:07:00,MLB,2023-05-20 00:31:29
+bd4162a0260b0a3314227c1463c910c7,3,Baltimore Orioles,2.2,barstool,Toronto Blue Jays,Baltimore Orioles,2023-05-20 15:07:00,MLB,2023-05-20 00:31:43
+bd4162a0260b0a3314227c1463c910c7,3,Toronto Blue Jays,1.72,barstool,Toronto Blue Jays,Baltimore Orioles,2023-05-20 15:07:00,MLB,2023-05-20 00:31:43
+bd4162a0260b0a3314227c1463c910c7,3,Baltimore Orioles,2.2,betrivers,Toronto Blue Jays,Baltimore Orioles,2023-05-20 15:07:00,MLB,2023-05-20 00:31:33
+bd4162a0260b0a3314227c1463c910c7,3,Toronto Blue Jays,1.72,betrivers,Toronto Blue Jays,Baltimore Orioles,2023-05-20 15:07:00,MLB,2023-05-20 00:31:33
+bd4162a0260b0a3314227c1463c910c7,3,Baltimore Orioles,2.2,twinspires,Toronto Blue Jays,Baltimore Orioles,2023-05-20 15:07:00,MLB,2023-05-20 00:31:51
+bd4162a0260b0a3314227c1463c910c7,3,Toronto Blue Jays,1.67,twinspires,Toronto Blue Jays,Baltimore Orioles,2023-05-20 15:07:00,MLB,2023-05-20 00:31:51
+bd4162a0260b0a3314227c1463c910c7,3,Baltimore Orioles,2.2,superbook,Toronto Blue Jays,Baltimore Orioles,2023-05-20 15:07:00,MLB,2023-05-20 00:31:18
+bd4162a0260b0a3314227c1463c910c7,3,Toronto Blue Jays,1.71,superbook,Toronto Blue Jays,Baltimore Orioles,2023-05-20 15:07:00,MLB,2023-05-20 00:31:18
+bd4162a0260b0a3314227c1463c910c7,3,Baltimore Orioles,2.25,betmgm,Toronto Blue Jays,Baltimore Orioles,2023-05-20 15:07:00,MLB,2023-05-20 00:31:54
+bd4162a0260b0a3314227c1463c910c7,3,Toronto Blue Jays,1.65,betmgm,Toronto Blue Jays,Baltimore Orioles,2023-05-20 15:07:00,MLB,2023-05-20 00:31:54
+a5929487d624fde848d6f5681a799965,4,Arizona Diamondbacks,2.15,draftkings,Pittsburgh Pirates,Arizona Diamondbacks,2023-05-20 16:05:00,MLB,2023-05-20 00:31:41
+a5929487d624fde848d6f5681a799965,4,Pittsburgh Pirates,1.74,draftkings,Pittsburgh Pirates,Arizona Diamondbacks,2023-05-20 16:05:00,MLB,2023-05-20 00:31:41
+a5929487d624fde848d6f5681a799965,4,Arizona Diamondbacks,2.24,betus,Pittsburgh Pirates,Arizona Diamondbacks,2023-05-20 16:05:00,MLB,2023-05-20 00:31:03
+a5929487d624fde848d6f5681a799965,4,Pittsburgh Pirates,1.75,betus,Pittsburgh Pirates,Arizona Diamondbacks,2023-05-20 16:05:00,MLB,2023-05-20 00:31:03
+a5929487d624fde848d6f5681a799965,4,Arizona Diamondbacks,2.18,williamhill_us,Pittsburgh Pirates,Arizona Diamondbacks,2023-05-20 16:05:00,MLB,2023-05-20 00:31:31
+a5929487d624fde848d6f5681a799965,4,Pittsburgh Pirates,1.71,williamhill_us,Pittsburgh Pirates,Arizona Diamondbacks,2023-05-20 16:05:00,MLB,2023-05-20 00:31:31
+a5929487d624fde848d6f5681a799965,4,Arizona Diamondbacks,2.27,betonlineag,Pittsburgh Pirates,Arizona Diamondbacks,2023-05-20 16:05:00,MLB,2023-05-20 00:31:31
+a5929487d624fde848d6f5681a799965,4,Pittsburgh Pirates,1.73,betonlineag,Pittsburgh Pirates,Arizona Diamondbacks,2023-05-20 16:05:00,MLB,2023-05-20 00:31:31
+a5929487d624fde848d6f5681a799965,4,Arizona Diamondbacks,2.27,lowvig,Pittsburgh Pirates,Arizona Diamondbacks,2023-05-20 16:05:00,MLB,2023-05-20 00:31:13
+a5929487d624fde848d6f5681a799965,4,Pittsburgh Pirates,1.73,lowvig,Pittsburgh Pirates,Arizona Diamondbacks,2023-05-20 16:05:00,MLB,2023-05-20 00:31:13
+a5929487d624fde848d6f5681a799965,4,Arizona Diamondbacks,2.2,fanduel,Pittsburgh Pirates,Arizona Diamondbacks,2023-05-20 16:05:00,MLB,2023-05-20 00:31:24
+a5929487d624fde848d6f5681a799965,4,Pittsburgh Pirates,1.7,fanduel,Pittsburgh Pirates,Arizona Diamondbacks,2023-05-20 16:05:00,MLB,2023-05-20 00:31:24
+a5929487d624fde848d6f5681a799965,4,Arizona Diamondbacks,2.25,wynnbet,Pittsburgh Pirates,Arizona Diamondbacks,2023-05-20 16:05:00,MLB,2023-05-20 00:28:28
+a5929487d624fde848d6f5681a799965,4,Pittsburgh Pirates,1.74,wynnbet,Pittsburgh Pirates,Arizona Diamondbacks,2023-05-20 16:05:00,MLB,2023-05-20 00:28:28
+a5929487d624fde848d6f5681a799965,4,Arizona Diamondbacks,2.1,foxbet,Pittsburgh Pirates,Arizona Diamondbacks,2023-05-20 16:05:00,MLB,2023-05-20 00:31:18
+a5929487d624fde848d6f5681a799965,4,Pittsburgh Pirates,1.67,foxbet,Pittsburgh Pirates,Arizona Diamondbacks,2023-05-20 16:05:00,MLB,2023-05-20 00:31:18
+a5929487d624fde848d6f5681a799965,4,Arizona Diamondbacks,2.14,mybookieag,Pittsburgh Pirates,Arizona Diamondbacks,2023-05-20 16:05:00,MLB,2023-05-20 00:31:31
+a5929487d624fde848d6f5681a799965,4,Pittsburgh Pirates,1.72,mybookieag,Pittsburgh Pirates,Arizona Diamondbacks,2023-05-20 16:05:00,MLB,2023-05-20 00:31:31
+a5929487d624fde848d6f5681a799965,4,Arizona Diamondbacks,2.15,pointsbetus,Pittsburgh Pirates,Arizona Diamondbacks,2023-05-20 16:05:00,MLB,2023-05-20 00:31:07
+a5929487d624fde848d6f5681a799965,4,Pittsburgh Pirates,1.71,pointsbetus,Pittsburgh Pirates,Arizona Diamondbacks,2023-05-20 16:05:00,MLB,2023-05-20 00:31:07
+a5929487d624fde848d6f5681a799965,4,Arizona Diamondbacks,2.17,bovada,Pittsburgh Pirates,Arizona Diamondbacks,2023-05-20 16:05:00,MLB,2023-05-20 00:31:54
+a5929487d624fde848d6f5681a799965,4,Pittsburgh Pirates,1.71,bovada,Pittsburgh Pirates,Arizona Diamondbacks,2023-05-20 16:05:00,MLB,2023-05-20 00:31:54
+a5929487d624fde848d6f5681a799965,4,Arizona Diamondbacks,2.09,circasports,Pittsburgh Pirates,Arizona Diamondbacks,2023-05-20 16:05:00,MLB,2023-05-20 00:31:16
+a5929487d624fde848d6f5681a799965,4,Pittsburgh Pirates,1.76,circasports,Pittsburgh Pirates,Arizona Diamondbacks,2023-05-20 16:05:00,MLB,2023-05-20 00:31:16
+a5929487d624fde848d6f5681a799965,4,Arizona Diamondbacks,2.14,twinspires,Pittsburgh Pirates,Arizona Diamondbacks,2023-05-20 16:05:00,MLB,2023-05-20 00:31:51
+a5929487d624fde848d6f5681a799965,4,Pittsburgh Pirates,1.75,twinspires,Pittsburgh Pirates,Arizona Diamondbacks,2023-05-20 16:05:00,MLB,2023-05-20 00:31:51
+a5929487d624fde848d6f5681a799965,4,Arizona Diamondbacks,2.14,sugarhouse,Pittsburgh Pirates,Arizona Diamondbacks,2023-05-20 16:05:00,MLB,2023-05-20 00:31:43
+a5929487d624fde848d6f5681a799965,4,Pittsburgh Pirates,1.75,sugarhouse,Pittsburgh Pirates,Arizona Diamondbacks,2023-05-20 16:05:00,MLB,2023-05-20 00:31:43
+a5929487d624fde848d6f5681a799965,4,Arizona Diamondbacks,2.14,unibet_us,Pittsburgh Pirates,Arizona Diamondbacks,2023-05-20 16:05:00,MLB,2023-05-20 00:31:29
+a5929487d624fde848d6f5681a799965,4,Pittsburgh Pirates,1.75,unibet_us,Pittsburgh Pirates,Arizona Diamondbacks,2023-05-20 16:05:00,MLB,2023-05-20 00:31:29
+a5929487d624fde848d6f5681a799965,4,Arizona Diamondbacks,2.14,barstool,Pittsburgh Pirates,Arizona Diamondbacks,2023-05-20 16:05:00,MLB,2023-05-20 00:31:43
+a5929487d624fde848d6f5681a799965,4,Pittsburgh Pirates,1.75,barstool,Pittsburgh Pirates,Arizona Diamondbacks,2023-05-20 16:05:00,MLB,2023-05-20 00:31:43
+a5929487d624fde848d6f5681a799965,4,Arizona Diamondbacks,2.14,betrivers,Pittsburgh Pirates,Arizona Diamondbacks,2023-05-20 16:05:00,MLB,2023-05-20 00:31:33
+a5929487d624fde848d6f5681a799965,4,Pittsburgh Pirates,1.75,betrivers,Pittsburgh Pirates,Arizona Diamondbacks,2023-05-20 16:05:00,MLB,2023-05-20 00:31:33
+a5929487d624fde848d6f5681a799965,4,Arizona Diamondbacks,2.16,superbook,Pittsburgh Pirates,Arizona Diamondbacks,2023-05-20 16:05:00,MLB,2023-05-20 00:31:18
+a5929487d624fde848d6f5681a799965,4,Pittsburgh Pirates,1.74,superbook,Pittsburgh Pirates,Arizona Diamondbacks,2023-05-20 16:05:00,MLB,2023-05-20 00:31:18
+a5929487d624fde848d6f5681a799965,4,Arizona Diamondbacks,2.1,betmgm,Pittsburgh Pirates,Arizona Diamondbacks,2023-05-20 16:05:00,MLB,2023-05-20 00:31:54
+a5929487d624fde848d6f5681a799965,4,Pittsburgh Pirates,1.74,betmgm,Pittsburgh Pirates,Arizona Diamondbacks,2023-05-20 16:05:00,MLB,2023-05-20 00:31:54
+cb17f99c96dea1465070c51cca44d7dc,5,Chicago Cubs,2.4,draftkings,Philadelphia Phillies,Chicago Cubs,2023-05-20 16:05:00,MLB,2023-05-20 00:31:41
+cb17f99c96dea1465070c51cca44d7dc,5,Philadelphia Phillies,1.61,draftkings,Philadelphia Phillies,Chicago Cubs,2023-05-20 16:05:00,MLB,2023-05-20 00:31:41
+cb17f99c96dea1465070c51cca44d7dc,5,Chicago Cubs,2.4,betus,Philadelphia Phillies,Chicago Cubs,2023-05-20 16:05:00,MLB,2023-05-20 00:31:03
+cb17f99c96dea1465070c51cca44d7dc,5,Philadelphia Phillies,1.65,betus,Philadelphia Phillies,Chicago Cubs,2023-05-20 16:05:00,MLB,2023-05-20 00:31:03
+cb17f99c96dea1465070c51cca44d7dc,5,Chicago Cubs,2.4,williamhill_us,Philadelphia Phillies,Chicago Cubs,2023-05-20 16:05:00,MLB,2023-05-20 00:31:31
+cb17f99c96dea1465070c51cca44d7dc,5,Philadelphia Phillies,1.61,williamhill_us,Philadelphia Phillies,Chicago Cubs,2023-05-20 16:05:00,MLB,2023-05-20 00:31:31
+cb17f99c96dea1465070c51cca44d7dc,5,Chicago Cubs,2.43,lowvig,Philadelphia Phillies,Chicago Cubs,2023-05-20 16:05:00,MLB,2023-05-20 00:31:13
+cb17f99c96dea1465070c51cca44d7dc,5,Philadelphia Phillies,1.65,lowvig,Philadelphia Phillies,Chicago Cubs,2023-05-20 16:05:00,MLB,2023-05-20 00:31:13
+cb17f99c96dea1465070c51cca44d7dc,5,Chicago Cubs,2.43,betonlineag,Philadelphia Phillies,Chicago Cubs,2023-05-20 16:05:00,MLB,2023-05-20 00:31:31
+cb17f99c96dea1465070c51cca44d7dc,5,Philadelphia Phillies,1.64,betonlineag,Philadelphia Phillies,Chicago Cubs,2023-05-20 16:05:00,MLB,2023-05-20 00:31:31
+cb17f99c96dea1465070c51cca44d7dc,5,Chicago Cubs,2.39,bovada,Philadelphia Phillies,Chicago Cubs,2023-05-20 16:05:00,MLB,2023-05-20 00:31:54
+cb17f99c96dea1465070c51cca44d7dc,5,Philadelphia Phillies,1.61,bovada,Philadelphia Phillies,Chicago Cubs,2023-05-20 16:05:00,MLB,2023-05-20 00:31:54
+cb17f99c96dea1465070c51cca44d7dc,5,Chicago Cubs,2.45,wynnbet,Philadelphia Phillies,Chicago Cubs,2023-05-20 16:05:00,MLB,2023-05-20 00:28:28
+cb17f99c96dea1465070c51cca44d7dc,5,Philadelphia Phillies,1.63,wynnbet,Philadelphia Phillies,Chicago Cubs,2023-05-20 16:05:00,MLB,2023-05-20 00:28:28
+cb17f99c96dea1465070c51cca44d7dc,5,Chicago Cubs,2.46,fanduel,Philadelphia Phillies,Chicago Cubs,2023-05-20 16:05:00,MLB,2023-05-20 00:31:24
+cb17f99c96dea1465070c51cca44d7dc,5,Philadelphia Phillies,1.57,fanduel,Philadelphia Phillies,Chicago Cubs,2023-05-20 16:05:00,MLB,2023-05-20 00:31:24
+cb17f99c96dea1465070c51cca44d7dc,5,Chicago Cubs,2.38,foxbet,Philadelphia Phillies,Chicago Cubs,2023-05-20 16:05:00,MLB,2023-05-20 00:31:18
+cb17f99c96dea1465070c51cca44d7dc,5,Philadelphia Phillies,1.55,foxbet,Philadelphia Phillies,Chicago Cubs,2023-05-20 16:05:00,MLB,2023-05-20 00:31:18
+cb17f99c96dea1465070c51cca44d7dc,5,Chicago Cubs,2.39,mybookieag,Philadelphia Phillies,Chicago Cubs,2023-05-20 16:05:00,MLB,2023-05-20 00:31:31
+cb17f99c96dea1465070c51cca44d7dc,5,Philadelphia Phillies,1.58,mybookieag,Philadelphia Phillies,Chicago Cubs,2023-05-20 16:05:00,MLB,2023-05-20 00:31:31
+cb17f99c96dea1465070c51cca44d7dc,5,Chicago Cubs,2.46,circasports,Philadelphia Phillies,Chicago Cubs,2023-05-20 16:05:00,MLB,2023-05-20 00:31:16
+cb17f99c96dea1465070c51cca44d7dc,5,Philadelphia Phillies,1.57,circasports,Philadelphia Phillies,Chicago Cubs,2023-05-20 16:05:00,MLB,2023-05-20 00:31:16
+cb17f99c96dea1465070c51cca44d7dc,5,Chicago Cubs,2.5,barstool,Philadelphia Phillies,Chicago Cubs,2023-05-20 16:05:00,MLB,2023-05-20 00:31:43
+cb17f99c96dea1465070c51cca44d7dc,5,Philadelphia Phillies,1.55,barstool,Philadelphia Phillies,Chicago Cubs,2023-05-20 16:05:00,MLB,2023-05-20 00:31:43
+cb17f99c96dea1465070c51cca44d7dc,5,Chicago Cubs,2.5,betrivers,Philadelphia Phillies,Chicago Cubs,2023-05-20 16:05:00,MLB,2023-05-20 00:31:33
+cb17f99c96dea1465070c51cca44d7dc,5,Philadelphia Phillies,1.57,betrivers,Philadelphia Phillies,Chicago Cubs,2023-05-20 16:05:00,MLB,2023-05-20 00:31:33
+cb17f99c96dea1465070c51cca44d7dc,5,Chicago Cubs,2.5,twinspires,Philadelphia Phillies,Chicago Cubs,2023-05-20 16:05:00,MLB,2023-05-20 00:31:51
+cb17f99c96dea1465070c51cca44d7dc,5,Philadelphia Phillies,1.54,twinspires,Philadelphia Phillies,Chicago Cubs,2023-05-20 16:05:00,MLB,2023-05-20 00:31:51
+cb17f99c96dea1465070c51cca44d7dc,5,Chicago Cubs,2.5,sugarhouse,Philadelphia Phillies,Chicago Cubs,2023-05-20 16:05:00,MLB,2023-05-20 00:31:43
+cb17f99c96dea1465070c51cca44d7dc,5,Philadelphia Phillies,1.57,sugarhouse,Philadelphia Phillies,Chicago Cubs,2023-05-20 16:05:00,MLB,2023-05-20 00:31:43
+cb17f99c96dea1465070c51cca44d7dc,5,Chicago Cubs,2.5,unibet_us,Philadelphia Phillies,Chicago Cubs,2023-05-20 16:05:00,MLB,2023-05-20 00:31:29
+cb17f99c96dea1465070c51cca44d7dc,5,Philadelphia Phillies,1.55,unibet_us,Philadelphia Phillies,Chicago Cubs,2023-05-20 16:05:00,MLB,2023-05-20 00:31:29
+cb17f99c96dea1465070c51cca44d7dc,5,Chicago Cubs,2.35,superbook,Philadelphia Phillies,Chicago Cubs,2023-05-20 16:05:00,MLB,2023-05-20 00:31:18
+cb17f99c96dea1465070c51cca44d7dc,5,Philadelphia Phillies,1.62,superbook,Philadelphia Phillies,Chicago Cubs,2023-05-20 16:05:00,MLB,2023-05-20 00:31:18
+cb17f99c96dea1465070c51cca44d7dc,5,Chicago Cubs,2.45,betmgm,Philadelphia Phillies,Chicago Cubs,2023-05-20 16:05:00,MLB,2023-05-20 00:31:54
+cb17f99c96dea1465070c51cca44d7dc,5,Philadelphia Phillies,1.57,betmgm,Philadelphia Phillies,Chicago Cubs,2023-05-20 16:05:00,MLB,2023-05-20 00:31:54
+d140ec16fbee1387e9a4652cdaeb1ff4,6,Colorado Rockies,2.6,draftkings,Texas Rangers,Colorado Rockies,2023-05-20 16:05:00,MLB,2023-05-20 00:31:41
+d140ec16fbee1387e9a4652cdaeb1ff4,6,Texas Rangers,1.53,draftkings,Texas Rangers,Colorado Rockies,2023-05-20 16:05:00,MLB,2023-05-20 00:31:41
+d140ec16fbee1387e9a4652cdaeb1ff4,6,Colorado Rockies,2.65,betus,Texas Rangers,Colorado Rockies,2023-05-20 16:05:00,MLB,2023-05-20 00:31:03
+d140ec16fbee1387e9a4652cdaeb1ff4,6,Texas Rangers,1.54,betus,Texas Rangers,Colorado Rockies,2023-05-20 16:05:00,MLB,2023-05-20 00:31:03
+d140ec16fbee1387e9a4652cdaeb1ff4,6,Colorado Rockies,2.67,betonlineag,Texas Rangers,Colorado Rockies,2023-05-20 16:05:00,MLB,2023-05-20 00:31:31
+d140ec16fbee1387e9a4652cdaeb1ff4,6,Texas Rangers,1.54,betonlineag,Texas Rangers,Colorado Rockies,2023-05-20 16:05:00,MLB,2023-05-20 00:31:31
+d140ec16fbee1387e9a4652cdaeb1ff4,6,Colorado Rockies,2.67,lowvig,Texas Rangers,Colorado Rockies,2023-05-20 16:05:00,MLB,2023-05-20 00:31:13
+d140ec16fbee1387e9a4652cdaeb1ff4,6,Texas Rangers,1.55,lowvig,Texas Rangers,Colorado Rockies,2023-05-20 16:05:00,MLB,2023-05-20 00:31:13
+d140ec16fbee1387e9a4652cdaeb1ff4,6,Colorado Rockies,2.62,williamhill_us,Texas Rangers,Colorado Rockies,2023-05-20 16:05:00,MLB,2023-05-20 00:31:31
+d140ec16fbee1387e9a4652cdaeb1ff4,6,Texas Rangers,1.51,williamhill_us,Texas Rangers,Colorado Rockies,2023-05-20 16:05:00,MLB,2023-05-20 00:31:31
+d140ec16fbee1387e9a4652cdaeb1ff4,6,Colorado Rockies,2.53,bovada,Texas Rangers,Colorado Rockies,2023-05-20 16:05:00,MLB,2023-05-20 00:31:54
+d140ec16fbee1387e9a4652cdaeb1ff4,6,Texas Rangers,1.54,bovada,Texas Rangers,Colorado Rockies,2023-05-20 16:05:00,MLB,2023-05-20 00:31:54
+d140ec16fbee1387e9a4652cdaeb1ff4,6,Colorado Rockies,2.68,fanduel,Texas Rangers,Colorado Rockies,2023-05-20 16:05:00,MLB,2023-05-20 00:31:24
+d140ec16fbee1387e9a4652cdaeb1ff4,6,Texas Rangers,1.5,fanduel,Texas Rangers,Colorado Rockies,2023-05-20 16:05:00,MLB,2023-05-20 00:31:24
+d140ec16fbee1387e9a4652cdaeb1ff4,6,Colorado Rockies,2.7,wynnbet,Texas Rangers,Colorado Rockies,2023-05-20 16:05:00,MLB,2023-05-20 00:28:28
+d140ec16fbee1387e9a4652cdaeb1ff4,6,Texas Rangers,1.53,wynnbet,Texas Rangers,Colorado Rockies,2023-05-20 16:05:00,MLB,2023-05-20 00:28:28
+d140ec16fbee1387e9a4652cdaeb1ff4,6,Colorado Rockies,2.5,foxbet,Texas Rangers,Colorado Rockies,2023-05-20 16:05:00,MLB,2023-05-20 00:31:18
+d140ec16fbee1387e9a4652cdaeb1ff4,6,Texas Rangers,1.5,foxbet,Texas Rangers,Colorado Rockies,2023-05-20 16:05:00,MLB,2023-05-20 00:31:18
+d140ec16fbee1387e9a4652cdaeb1ff4,6,Colorado Rockies,2.58,mybookieag,Texas Rangers,Colorado Rockies,2023-05-20 16:05:00,MLB,2023-05-20 00:31:31
+d140ec16fbee1387e9a4652cdaeb1ff4,6,Texas Rangers,1.51,mybookieag,Texas Rangers,Colorado Rockies,2023-05-20 16:05:00,MLB,2023-05-20 00:31:31
+d140ec16fbee1387e9a4652cdaeb1ff4,6,Colorado Rockies,2.6,pointsbetus,Texas Rangers,Colorado Rockies,2023-05-20 16:05:00,MLB,2023-05-20 00:31:07
+d140ec16fbee1387e9a4652cdaeb1ff4,6,Texas Rangers,1.53,pointsbetus,Texas Rangers,Colorado Rockies,2023-05-20 16:05:00,MLB,2023-05-20 00:31:07
+d140ec16fbee1387e9a4652cdaeb1ff4,6,Colorado Rockies,2.53,circasports,Texas Rangers,Colorado Rockies,2023-05-20 16:05:00,MLB,2023-05-20 00:31:16
+d140ec16fbee1387e9a4652cdaeb1ff4,6,Texas Rangers,1.55,circasports,Texas Rangers,Colorado Rockies,2023-05-20 16:05:00,MLB,2023-05-20 00:31:16
+d140ec16fbee1387e9a4652cdaeb1ff4,6,Colorado Rockies,2.63,barstool,Texas Rangers,Colorado Rockies,2023-05-20 16:05:00,MLB,2023-05-20 00:31:43
+d140ec16fbee1387e9a4652cdaeb1ff4,6,Texas Rangers,1.53,barstool,Texas Rangers,Colorado Rockies,2023-05-20 16:05:00,MLB,2023-05-20 00:31:43
+d140ec16fbee1387e9a4652cdaeb1ff4,6,Colorado Rockies,2.63,twinspires,Texas Rangers,Colorado Rockies,2023-05-20 16:05:00,MLB,2023-05-20 00:31:51
+d140ec16fbee1387e9a4652cdaeb1ff4,6,Texas Rangers,1.48,twinspires,Texas Rangers,Colorado Rockies,2023-05-20 16:05:00,MLB,2023-05-20 00:31:51
+d140ec16fbee1387e9a4652cdaeb1ff4,6,Colorado Rockies,2.63,sugarhouse,Texas Rangers,Colorado Rockies,2023-05-20 16:05:00,MLB,2023-05-20 00:31:43
+d140ec16fbee1387e9a4652cdaeb1ff4,6,Texas Rangers,1.53,sugarhouse,Texas Rangers,Colorado Rockies,2023-05-20 16:05:00,MLB,2023-05-20 00:31:43
+d140ec16fbee1387e9a4652cdaeb1ff4,6,Colorado Rockies,2.63,unibet_us,Texas Rangers,Colorado Rockies,2023-05-20 16:05:00,MLB,2023-05-20 00:31:29
+d140ec16fbee1387e9a4652cdaeb1ff4,6,Texas Rangers,1.53,unibet_us,Texas Rangers,Colorado Rockies,2023-05-20 16:05:00,MLB,2023-05-20 00:31:29
+d140ec16fbee1387e9a4652cdaeb1ff4,6,Colorado Rockies,2.63,betrivers,Texas Rangers,Colorado Rockies,2023-05-20 16:05:00,MLB,2023-05-20 00:31:33
+d140ec16fbee1387e9a4652cdaeb1ff4,6,Texas Rangers,1.53,betrivers,Texas Rangers,Colorado Rockies,2023-05-20 16:05:00,MLB,2023-05-20 00:31:33
+d140ec16fbee1387e9a4652cdaeb1ff4,6,Colorado Rockies,2.6,superbook,Texas Rangers,Colorado Rockies,2023-05-20 16:05:00,MLB,2023-05-20 00:31:18
+d140ec16fbee1387e9a4652cdaeb1ff4,6,Texas Rangers,1.53,superbook,Texas Rangers,Colorado Rockies,2023-05-20 16:05:00,MLB,2023-05-20 00:31:18
+d140ec16fbee1387e9a4652cdaeb1ff4,6,Colorado Rockies,2.55,betmgm,Texas Rangers,Colorado Rockies,2023-05-20 16:05:00,MLB,2023-05-20 00:31:54
+d140ec16fbee1387e9a4652cdaeb1ff4,6,Texas Rangers,1.53,betmgm,Texas Rangers,Colorado Rockies,2023-05-20 16:05:00,MLB,2023-05-20 00:31:54
+8e7bc3a287071b73f6bb6331f42ee7db,7,Detroit Tigers,1.95,draftkings,Washington Nationals,Detroit Tigers,2023-05-20 16:05:00,MLB,2023-05-20 00:31:41
+8e7bc3a287071b73f6bb6331f42ee7db,7,Washington Nationals,1.87,draftkings,Washington Nationals,Detroit Tigers,2023-05-20 16:05:00,MLB,2023-05-20 00:31:41
+8e7bc3a287071b73f6bb6331f42ee7db,7,Detroit Tigers,2.02,betus,Washington Nationals,Detroit Tigers,2023-05-20 16:05:00,MLB,2023-05-20 00:31:03
+8e7bc3a287071b73f6bb6331f42ee7db,7,Washington Nationals,1.89,betus,Washington Nationals,Detroit Tigers,2023-05-20 16:05:00,MLB,2023-05-20 00:31:03
+8e7bc3a287071b73f6bb6331f42ee7db,7,Detroit Tigers,2.02,betonlineag,Washington Nationals,Detroit Tigers,2023-05-20 16:05:00,MLB,2023-05-20 00:31:31
+8e7bc3a287071b73f6bb6331f42ee7db,7,Washington Nationals,1.89,betonlineag,Washington Nationals,Detroit Tigers,2023-05-20 16:05:00,MLB,2023-05-20 00:31:31
+8e7bc3a287071b73f6bb6331f42ee7db,7,Detroit Tigers,2.02,lowvig,Washington Nationals,Detroit Tigers,2023-05-20 16:05:00,MLB,2023-05-20 00:31:13
+8e7bc3a287071b73f6bb6331f42ee7db,7,Washington Nationals,1.89,lowvig,Washington Nationals,Detroit Tigers,2023-05-20 16:05:00,MLB,2023-05-20 00:31:13
+8e7bc3a287071b73f6bb6331f42ee7db,7,Detroit Tigers,1.95,williamhill_us,Washington Nationals,Detroit Tigers,2023-05-20 16:05:00,MLB,2023-05-20 00:31:31
+8e7bc3a287071b73f6bb6331f42ee7db,7,Washington Nationals,1.87,williamhill_us,Washington Nationals,Detroit Tigers,2023-05-20 16:05:00,MLB,2023-05-20 00:31:31
+8e7bc3a287071b73f6bb6331f42ee7db,7,Detroit Tigers,1.95,bovada,Washington Nationals,Detroit Tigers,2023-05-20 16:05:00,MLB,2023-05-20 00:31:54
+8e7bc3a287071b73f6bb6331f42ee7db,7,Washington Nationals,1.87,bovada,Washington Nationals,Detroit Tigers,2023-05-20 16:05:00,MLB,2023-05-20 00:31:54
+8e7bc3a287071b73f6bb6331f42ee7db,7,Detroit Tigers,1.89,fanduel,Washington Nationals,Detroit Tigers,2023-05-20 16:05:00,MLB,2023-05-20 00:31:24
+8e7bc3a287071b73f6bb6331f42ee7db,7,Washington Nationals,1.96,fanduel,Washington Nationals,Detroit Tigers,2023-05-20 16:05:00,MLB,2023-05-20 00:31:24
+8e7bc3a287071b73f6bb6331f42ee7db,7,Detroit Tigers,2.0,wynnbet,Washington Nationals,Detroit Tigers,2023-05-20 16:05:00,MLB,2023-05-20 00:28:28
+8e7bc3a287071b73f6bb6331f42ee7db,7,Washington Nationals,1.91,wynnbet,Washington Nationals,Detroit Tigers,2023-05-20 16:05:00,MLB,2023-05-20 00:28:28
+8e7bc3a287071b73f6bb6331f42ee7db,7,Detroit Tigers,1.91,foxbet,Washington Nationals,Detroit Tigers,2023-05-20 16:05:00,MLB,2023-05-20 00:31:18
+8e7bc3a287071b73f6bb6331f42ee7db,7,Washington Nationals,1.83,foxbet,Washington Nationals,Detroit Tigers,2023-05-20 16:05:00,MLB,2023-05-20 00:31:18
+8e7bc3a287071b73f6bb6331f42ee7db,7,Detroit Tigers,1.95,mybookieag,Washington Nationals,Detroit Tigers,2023-05-20 16:05:00,MLB,2023-05-20 00:31:31
+8e7bc3a287071b73f6bb6331f42ee7db,7,Washington Nationals,1.86,mybookieag,Washington Nationals,Detroit Tigers,2023-05-20 16:05:00,MLB,2023-05-20 00:31:31
+8e7bc3a287071b73f6bb6331f42ee7db,7,Detroit Tigers,1.95,pointsbetus,Washington Nationals,Detroit Tigers,2023-05-20 16:05:00,MLB,2023-05-20 00:31:07
+8e7bc3a287071b73f6bb6331f42ee7db,7,Washington Nationals,1.87,pointsbetus,Washington Nationals,Detroit Tigers,2023-05-20 16:05:00,MLB,2023-05-20 00:31:07
+8e7bc3a287071b73f6bb6331f42ee7db,7,Detroit Tigers,1.95,circasports,Washington Nationals,Detroit Tigers,2023-05-20 16:05:00,MLB,2023-05-20 00:31:16
+8e7bc3a287071b73f6bb6331f42ee7db,7,Washington Nationals,1.88,circasports,Washington Nationals,Detroit Tigers,2023-05-20 16:05:00,MLB,2023-05-20 00:31:16
+8e7bc3a287071b73f6bb6331f42ee7db,7,Detroit Tigers,1.93,betrivers,Washington Nationals,Detroit Tigers,2023-05-20 16:05:00,MLB,2023-05-20 00:31:33
+8e7bc3a287071b73f6bb6331f42ee7db,7,Washington Nationals,1.93,betrivers,Washington Nationals,Detroit Tigers,2023-05-20 16:05:00,MLB,2023-05-20 00:31:33
+8e7bc3a287071b73f6bb6331f42ee7db,7,Detroit Tigers,1.93,barstool,Washington Nationals,Detroit Tigers,2023-05-20 16:05:00,MLB,2023-05-20 00:31:43
+8e7bc3a287071b73f6bb6331f42ee7db,7,Washington Nationals,1.93,barstool,Washington Nationals,Detroit Tigers,2023-05-20 16:05:00,MLB,2023-05-20 00:31:43
+8e7bc3a287071b73f6bb6331f42ee7db,7,Detroit Tigers,1.93,twinspires,Washington Nationals,Detroit Tigers,2023-05-20 16:05:00,MLB,2023-05-20 00:31:51
+8e7bc3a287071b73f6bb6331f42ee7db,7,Washington Nationals,1.88,twinspires,Washington Nationals,Detroit Tigers,2023-05-20 16:05:00,MLB,2023-05-20 00:31:51
+8e7bc3a287071b73f6bb6331f42ee7db,7,Detroit Tigers,1.93,sugarhouse,Washington Nationals,Detroit Tigers,2023-05-20 16:05:00,MLB,2023-05-20 00:31:43
+8e7bc3a287071b73f6bb6331f42ee7db,7,Washington Nationals,1.93,sugarhouse,Washington Nationals,Detroit Tigers,2023-05-20 16:05:00,MLB,2023-05-20 00:31:43
+8e7bc3a287071b73f6bb6331f42ee7db,7,Detroit Tigers,1.93,unibet_us,Washington Nationals,Detroit Tigers,2023-05-20 16:05:00,MLB,2023-05-20 00:31:29
+8e7bc3a287071b73f6bb6331f42ee7db,7,Washington Nationals,1.93,unibet_us,Washington Nationals,Detroit Tigers,2023-05-20 16:05:00,MLB,2023-05-20 00:31:29
+8e7bc3a287071b73f6bb6331f42ee7db,7,Detroit Tigers,1.94,superbook,Washington Nationals,Detroit Tigers,2023-05-20 16:05:00,MLB,2023-05-20 00:31:18
+8e7bc3a287071b73f6bb6331f42ee7db,7,Washington Nationals,1.91,superbook,Washington Nationals,Detroit Tigers,2023-05-20 16:05:00,MLB,2023-05-20 00:31:18
+8e7bc3a287071b73f6bb6331f42ee7db,7,Detroit Tigers,1.95,betmgm,Washington Nationals,Detroit Tigers,2023-05-20 16:05:00,MLB,2023-05-20 00:31:54
+8e7bc3a287071b73f6bb6331f42ee7db,7,Washington Nationals,1.87,betmgm,Washington Nationals,Detroit Tigers,2023-05-20 16:05:00,MLB,2023-05-20 00:31:54
+eda61dfe9a4b9503cc608dd1b0646439,8,Miami Marlins,2.4,draftkings,San Francisco Giants,Miami Marlins,2023-05-20 16:05:00,MLB,2023-05-20 00:31:41
+eda61dfe9a4b9503cc608dd1b0646439,8,San Francisco Giants,1.61,draftkings,San Francisco Giants,Miami Marlins,2023-05-20 16:05:00,MLB,2023-05-20 00:31:41
+eda61dfe9a4b9503cc608dd1b0646439,8,Miami Marlins,2.43,betus,San Francisco Giants,Miami Marlins,2023-05-20 16:05:00,MLB,2023-05-20 00:31:03
+eda61dfe9a4b9503cc608dd1b0646439,8,San Francisco Giants,1.63,betus,San Francisco Giants,Miami Marlins,2023-05-20 16:05:00,MLB,2023-05-20 00:31:03
+eda61dfe9a4b9503cc608dd1b0646439,8,Miami Marlins,2.4,williamhill_us,San Francisco Giants,Miami Marlins,2023-05-20 16:05:00,MLB,2023-05-20 00:31:31
+eda61dfe9a4b9503cc608dd1b0646439,8,San Francisco Giants,1.61,williamhill_us,San Francisco Giants,Miami Marlins,2023-05-20 16:05:00,MLB,2023-05-20 00:31:31
+eda61dfe9a4b9503cc608dd1b0646439,8,Miami Marlins,2.42,betonlineag,San Francisco Giants,Miami Marlins,2023-05-20 16:05:00,MLB,2023-05-20 00:31:31
+eda61dfe9a4b9503cc608dd1b0646439,8,San Francisco Giants,1.64,betonlineag,San Francisco Giants,Miami Marlins,2023-05-20 16:05:00,MLB,2023-05-20 00:31:31
+eda61dfe9a4b9503cc608dd1b0646439,8,Miami Marlins,2.42,lowvig,San Francisco Giants,Miami Marlins,2023-05-20 16:05:00,MLB,2023-05-20 00:31:13
+eda61dfe9a4b9503cc608dd1b0646439,8,San Francisco Giants,1.65,lowvig,San Francisco Giants,Miami Marlins,2023-05-20 16:05:00,MLB,2023-05-20 00:31:13
+eda61dfe9a4b9503cc608dd1b0646439,8,Miami Marlins,2.39,bovada,San Francisco Giants,Miami Marlins,2023-05-20 16:05:00,MLB,2023-05-20 00:31:54
+eda61dfe9a4b9503cc608dd1b0646439,8,San Francisco Giants,1.61,bovada,San Francisco Giants,Miami Marlins,2023-05-20 16:05:00,MLB,2023-05-20 00:31:54
+eda61dfe9a4b9503cc608dd1b0646439,8,Miami Marlins,2.46,fanduel,San Francisco Giants,Miami Marlins,2023-05-20 16:05:00,MLB,2023-05-20 00:31:24
+eda61dfe9a4b9503cc608dd1b0646439,8,San Francisco Giants,1.57,fanduel,San Francisco Giants,Miami Marlins,2023-05-20 16:05:00,MLB,2023-05-20 00:31:24
+eda61dfe9a4b9503cc608dd1b0646439,8,Miami Marlins,2.5,wynnbet,San Francisco Giants,Miami Marlins,2023-05-20 16:05:00,MLB,2023-05-20 00:28:28
+eda61dfe9a4b9503cc608dd1b0646439,8,San Francisco Giants,1.61,wynnbet,San Francisco Giants,Miami Marlins,2023-05-20 16:05:00,MLB,2023-05-20 00:28:28
+eda61dfe9a4b9503cc608dd1b0646439,8,Miami Marlins,2.3,foxbet,San Francisco Giants,Miami Marlins,2023-05-20 16:05:00,MLB,2023-05-20 00:31:18
+eda61dfe9a4b9503cc608dd1b0646439,8,San Francisco Giants,1.57,foxbet,San Francisco Giants,Miami Marlins,2023-05-20 16:05:00,MLB,2023-05-20 00:31:18
+eda61dfe9a4b9503cc608dd1b0646439,8,Miami Marlins,2.37,mybookieag,San Francisco Giants,Miami Marlins,2023-05-20 16:05:00,MLB,2023-05-20 00:31:31
+eda61dfe9a4b9503cc608dd1b0646439,8,San Francisco Giants,1.59,mybookieag,San Francisco Giants,Miami Marlins,2023-05-20 16:05:00,MLB,2023-05-20 00:31:31
+eda61dfe9a4b9503cc608dd1b0646439,8,Miami Marlins,2.38,circasports,San Francisco Giants,Miami Marlins,2023-05-20 16:05:00,MLB,2023-05-20 00:31:16
+eda61dfe9a4b9503cc608dd1b0646439,8,San Francisco Giants,1.61,circasports,San Francisco Giants,Miami Marlins,2023-05-20 16:05:00,MLB,2023-05-20 00:31:16
+eda61dfe9a4b9503cc608dd1b0646439,8,Miami Marlins,2.4,betrivers,San Francisco Giants,Miami Marlins,2023-05-20 16:05:00,MLB,2023-05-20 00:31:33
+eda61dfe9a4b9503cc608dd1b0646439,8,San Francisco Giants,1.62,betrivers,San Francisco Giants,Miami Marlins,2023-05-20 16:05:00,MLB,2023-05-20 00:31:33
+eda61dfe9a4b9503cc608dd1b0646439,8,Miami Marlins,2.4,twinspires,San Francisco Giants,Miami Marlins,2023-05-20 16:05:00,MLB,2023-05-20 00:31:51
+eda61dfe9a4b9503cc608dd1b0646439,8,San Francisco Giants,1.57,twinspires,San Francisco Giants,Miami Marlins,2023-05-20 16:05:00,MLB,2023-05-20 00:31:51
+eda61dfe9a4b9503cc608dd1b0646439,8,Miami Marlins,2.4,sugarhouse,San Francisco Giants,Miami Marlins,2023-05-20 16:05:00,MLB,2023-05-20 00:31:43
+eda61dfe9a4b9503cc608dd1b0646439,8,San Francisco Giants,1.62,sugarhouse,San Francisco Giants,Miami Marlins,2023-05-20 16:05:00,MLB,2023-05-20 00:31:43
+eda61dfe9a4b9503cc608dd1b0646439,8,Miami Marlins,2.4,barstool,San Francisco Giants,Miami Marlins,2023-05-20 16:05:00,MLB,2023-05-20 00:31:43
+eda61dfe9a4b9503cc608dd1b0646439,8,San Francisco Giants,1.62,barstool,San Francisco Giants,Miami Marlins,2023-05-20 16:05:00,MLB,2023-05-20 00:31:43
+eda61dfe9a4b9503cc608dd1b0646439,8,Miami Marlins,2.4,unibet_us,San Francisco Giants,Miami Marlins,2023-05-20 16:05:00,MLB,2023-05-20 00:31:29
+eda61dfe9a4b9503cc608dd1b0646439,8,San Francisco Giants,1.62,unibet_us,San Francisco Giants,Miami Marlins,2023-05-20 16:05:00,MLB,2023-05-20 00:31:29
+eda61dfe9a4b9503cc608dd1b0646439,8,Miami Marlins,2.56,superbook,San Francisco Giants,Miami Marlins,2023-05-20 16:05:00,MLB,2023-05-20 00:31:18
+eda61dfe9a4b9503cc608dd1b0646439,8,San Francisco Giants,1.55,superbook,San Francisco Giants,Miami Marlins,2023-05-20 16:05:00,MLB,2023-05-20 00:31:18
+eda61dfe9a4b9503cc608dd1b0646439,8,Miami Marlins,2.45,betmgm,San Francisco Giants,Miami Marlins,2023-05-20 16:05:00,MLB,2023-05-20 00:31:54
+eda61dfe9a4b9503cc608dd1b0646439,8,San Francisco Giants,1.57,betmgm,San Francisco Giants,Miami Marlins,2023-05-20 16:05:00,MLB,2023-05-20 00:31:54
+c29149d7163c7392eed06aec896064ba,9,Cleveland Guardians,2.4,draftkings,New York Mets,Cleveland Guardians,2023-05-20 16:10:00,MLB,2023-05-20 00:31:41
+c29149d7163c7392eed06aec896064ba,9,New York Mets,1.61,draftkings,New York Mets,Cleveland Guardians,2023-05-20 16:10:00,MLB,2023-05-20 00:31:41
+c29149d7163c7392eed06aec896064ba,9,Cleveland Guardians,2.45,betus,New York Mets,Cleveland Guardians,2023-05-20 16:10:00,MLB,2023-05-20 00:31:03
+c29149d7163c7392eed06aec896064ba,9,New York Mets,1.61,betus,New York Mets,Cleveland Guardians,2023-05-20 16:10:00,MLB,2023-05-20 00:31:03
+c29149d7163c7392eed06aec896064ba,9,Cleveland Guardians,2.45,lowvig,New York Mets,Cleveland Guardians,2023-05-20 16:10:00,MLB,2023-05-20 00:31:13
+c29149d7163c7392eed06aec896064ba,9,New York Mets,1.64,lowvig,New York Mets,Cleveland Guardians,2023-05-20 16:10:00,MLB,2023-05-20 00:31:13
+c29149d7163c7392eed06aec896064ba,9,Cleveland Guardians,2.45,betonlineag,New York Mets,Cleveland Guardians,2023-05-20 16:10:00,MLB,2023-05-20 00:31:31
+c29149d7163c7392eed06aec896064ba,9,New York Mets,1.63,betonlineag,New York Mets,Cleveland Guardians,2023-05-20 16:10:00,MLB,2023-05-20 00:31:31
+c29149d7163c7392eed06aec896064ba,9,Cleveland Guardians,2.43,williamhill_us,New York Mets,Cleveland Guardians,2023-05-20 16:10:00,MLB,2023-05-20 00:31:31
+c29149d7163c7392eed06aec896064ba,9,New York Mets,1.59,williamhill_us,New York Mets,Cleveland Guardians,2023-05-20 16:10:00,MLB,2023-05-20 00:31:31
+c29149d7163c7392eed06aec896064ba,9,Cleveland Guardians,2.41,bovada,New York Mets,Cleveland Guardians,2023-05-20 16:10:00,MLB,2023-05-20 00:31:54
+c29149d7163c7392eed06aec896064ba,9,New York Mets,1.59,bovada,New York Mets,Cleveland Guardians,2023-05-20 16:10:00,MLB,2023-05-20 00:31:54
+c29149d7163c7392eed06aec896064ba,9,Cleveland Guardians,2.5,fanduel,New York Mets,Cleveland Guardians,2023-05-20 16:10:00,MLB,2023-05-20 00:31:24
+c29149d7163c7392eed06aec896064ba,9,New York Mets,1.56,fanduel,New York Mets,Cleveland Guardians,2023-05-20 16:10:00,MLB,2023-05-20 00:31:24
+c29149d7163c7392eed06aec896064ba,9,Cleveland Guardians,2.5,wynnbet,New York Mets,Cleveland Guardians,2023-05-20 16:10:00,MLB,2023-05-20 00:28:28
+c29149d7163c7392eed06aec896064ba,9,New York Mets,1.61,wynnbet,New York Mets,Cleveland Guardians,2023-05-20 16:10:00,MLB,2023-05-20 00:28:28
+c29149d7163c7392eed06aec896064ba,9,Cleveland Guardians,2.38,foxbet,New York Mets,Cleveland Guardians,2023-05-20 16:10:00,MLB,2023-05-20 00:31:18
+c29149d7163c7392eed06aec896064ba,9,New York Mets,1.55,foxbet,New York Mets,Cleveland Guardians,2023-05-20 16:10:00,MLB,2023-05-20 00:31:18
+c29149d7163c7392eed06aec896064ba,9,Cleveland Guardians,2.39,mybookieag,New York Mets,Cleveland Guardians,2023-05-20 16:10:00,MLB,2023-05-20 00:31:31
+c29149d7163c7392eed06aec896064ba,9,New York Mets,1.58,mybookieag,New York Mets,Cleveland Guardians,2023-05-20 16:10:00,MLB,2023-05-20 00:31:31
+c29149d7163c7392eed06aec896064ba,9,Cleveland Guardians,2.4,pointsbetus,New York Mets,Cleveland Guardians,2023-05-20 16:10:00,MLB,2023-05-20 00:31:07
+c29149d7163c7392eed06aec896064ba,9,New York Mets,1.59,pointsbetus,New York Mets,Cleveland Guardians,2023-05-20 16:10:00,MLB,2023-05-20 00:31:07
+c29149d7163c7392eed06aec896064ba,9,Cleveland Guardians,2.46,circasports,New York Mets,Cleveland Guardians,2023-05-20 16:10:00,MLB,2023-05-20 00:31:16
+c29149d7163c7392eed06aec896064ba,9,New York Mets,1.57,circasports,New York Mets,Cleveland Guardians,2023-05-20 16:10:00,MLB,2023-05-20 00:31:16
+c29149d7163c7392eed06aec896064ba,9,Cleveland Guardians,2.4,betrivers,New York Mets,Cleveland Guardians,2023-05-20 16:10:00,MLB,2023-05-20 00:31:33
+c29149d7163c7392eed06aec896064ba,9,New York Mets,1.62,betrivers,New York Mets,Cleveland Guardians,2023-05-20 16:10:00,MLB,2023-05-20 00:31:33
+c29149d7163c7392eed06aec896064ba,9,Cleveland Guardians,2.4,barstool,New York Mets,Cleveland Guardians,2023-05-20 16:10:00,MLB,2023-05-20 00:31:43
+c29149d7163c7392eed06aec896064ba,9,New York Mets,1.62,barstool,New York Mets,Cleveland Guardians,2023-05-20 16:10:00,MLB,2023-05-20 00:31:43
+c29149d7163c7392eed06aec896064ba,9,Cleveland Guardians,2.38,twinspires,New York Mets,Cleveland Guardians,2023-05-20 16:10:00,MLB,2023-05-20 00:31:51
+c29149d7163c7392eed06aec896064ba,9,New York Mets,1.61,twinspires,New York Mets,Cleveland Guardians,2023-05-20 16:10:00,MLB,2023-05-20 00:31:51
+c29149d7163c7392eed06aec896064ba,9,Cleveland Guardians,2.4,sugarhouse,New York Mets,Cleveland Guardians,2023-05-20 16:10:00,MLB,2023-05-20 00:31:43
+c29149d7163c7392eed06aec896064ba,9,New York Mets,1.62,sugarhouse,New York Mets,Cleveland Guardians,2023-05-20 16:10:00,MLB,2023-05-20 00:31:43
+c29149d7163c7392eed06aec896064ba,9,Cleveland Guardians,2.4,unibet_us,New York Mets,Cleveland Guardians,2023-05-20 16:10:00,MLB,2023-05-20 00:31:29
+c29149d7163c7392eed06aec896064ba,9,New York Mets,1.62,unibet_us,New York Mets,Cleveland Guardians,2023-05-20 16:10:00,MLB,2023-05-20 00:31:29
+c29149d7163c7392eed06aec896064ba,9,Cleveland Guardians,2.45,superbook,New York Mets,Cleveland Guardians,2023-05-20 16:10:00,MLB,2023-05-20 00:31:18
+c29149d7163c7392eed06aec896064ba,9,New York Mets,1.59,superbook,New York Mets,Cleveland Guardians,2023-05-20 16:10:00,MLB,2023-05-20 00:31:18
+c29149d7163c7392eed06aec896064ba,9,Cleveland Guardians,2.4,betmgm,New York Mets,Cleveland Guardians,2023-05-20 16:10:00,MLB,2023-05-20 00:31:54
+c29149d7163c7392eed06aec896064ba,9,New York Mets,1.61,betmgm,New York Mets,Cleveland Guardians,2023-05-20 16:10:00,MLB,2023-05-20 00:31:54
+745d07987643f66b1e2bd332a6938e3d,10,Houston Astros,1.34,draftkings,Houston Astros,Oakland Athletics,2023-05-20 16:10:00,MLB,2023-05-20 00:31:41
+745d07987643f66b1e2bd332a6938e3d,10,Oakland Athletics,3.45,draftkings,Houston Astros,Oakland Athletics,2023-05-20 16:10:00,MLB,2023-05-20 00:31:41
+745d07987643f66b1e2bd332a6938e3d,10,Houston Astros,1.33,betus,Houston Astros,Oakland Athletics,2023-05-20 16:10:00,MLB,2023-05-20 00:31:03
+745d07987643f66b1e2bd332a6938e3d,10,Oakland Athletics,3.4,betus,Houston Astros,Oakland Athletics,2023-05-20 16:10:00,MLB,2023-05-20 00:31:03
+745d07987643f66b1e2bd332a6938e3d,10,Houston Astros,1.33,williamhill_us,Houston Astros,Oakland Athletics,2023-05-20 16:10:00,MLB,2023-05-20 00:31:31
+745d07987643f66b1e2bd332a6938e3d,10,Oakland Athletics,3.4,williamhill_us,Houston Astros,Oakland Athletics,2023-05-20 16:10:00,MLB,2023-05-20 00:31:31
+745d07987643f66b1e2bd332a6938e3d,10,Houston Astros,1.36,lowvig,Houston Astros,Oakland Athletics,2023-05-20 16:10:00,MLB,2023-05-20 00:31:13
+745d07987643f66b1e2bd332a6938e3d,10,Oakland Athletics,3.45,lowvig,Houston Astros,Oakland Athletics,2023-05-20 16:10:00,MLB,2023-05-20 00:31:13
+745d07987643f66b1e2bd332a6938e3d,10,Houston Astros,1.36,betonlineag,Houston Astros,Oakland Athletics,2023-05-20 16:10:00,MLB,2023-05-20 00:31:31
+745d07987643f66b1e2bd332a6938e3d,10,Oakland Athletics,3.45,betonlineag,Houston Astros,Oakland Athletics,2023-05-20 16:10:00,MLB,2023-05-20 00:31:31
+745d07987643f66b1e2bd332a6938e3d,10,Houston Astros,1.34,bovada,Houston Astros,Oakland Athletics,2023-05-20 16:10:00,MLB,2023-05-20 00:31:54
+745d07987643f66b1e2bd332a6938e3d,10,Oakland Athletics,3.3,bovada,Houston Astros,Oakland Athletics,2023-05-20 16:10:00,MLB,2023-05-20 00:31:54
+745d07987643f66b1e2bd332a6938e3d,10,Houston Astros,1.31,fanduel,Houston Astros,Oakland Athletics,2023-05-20 16:10:00,MLB,2023-05-20 00:31:24
+745d07987643f66b1e2bd332a6938e3d,10,Oakland Athletics,3.6,fanduel,Houston Astros,Oakland Athletics,2023-05-20 16:10:00,MLB,2023-05-20 00:31:24
+745d07987643f66b1e2bd332a6938e3d,10,Houston Astros,1.36,wynnbet,Houston Astros,Oakland Athletics,2023-05-20 16:10:00,MLB,2023-05-20 00:28:28
+745d07987643f66b1e2bd332a6938e3d,10,Oakland Athletics,3.45,wynnbet,Houston Astros,Oakland Athletics,2023-05-20 16:10:00,MLB,2023-05-20 00:28:28
+745d07987643f66b1e2bd332a6938e3d,10,Houston Astros,1.3,foxbet,Houston Astros,Oakland Athletics,2023-05-20 16:10:00,MLB,2023-05-20 00:31:18
+745d07987643f66b1e2bd332a6938e3d,10,Oakland Athletics,3.3,foxbet,Houston Astros,Oakland Athletics,2023-05-20 16:10:00,MLB,2023-05-20 00:31:18
+745d07987643f66b1e2bd332a6938e3d,10,Houston Astros,1.32,mybookieag,Houston Astros,Oakland Athletics,2023-05-20 16:10:00,MLB,2023-05-20 00:31:31
+745d07987643f66b1e2bd332a6938e3d,10,Oakland Athletics,3.4,mybookieag,Houston Astros,Oakland Athletics,2023-05-20 16:10:00,MLB,2023-05-20 00:31:31
+745d07987643f66b1e2bd332a6938e3d,10,Houston Astros,1.34,circasports,Houston Astros,Oakland Athletics,2023-05-20 16:10:00,MLB,2023-05-20 00:31:16
+745d07987643f66b1e2bd332a6938e3d,10,Oakland Athletics,3.38,circasports,Houston Astros,Oakland Athletics,2023-05-20 16:10:00,MLB,2023-05-20 00:31:16
+745d07987643f66b1e2bd332a6938e3d,10,Houston Astros,1.32,barstool,Houston Astros,Oakland Athletics,2023-05-20 16:10:00,MLB,2023-05-20 00:31:43
+745d07987643f66b1e2bd332a6938e3d,10,Oakland Athletics,3.5,barstool,Houston Astros,Oakland Athletics,2023-05-20 16:10:00,MLB,2023-05-20 00:31:43
+745d07987643f66b1e2bd332a6938e3d,10,Houston Astros,1.3,twinspires,Houston Astros,Oakland Athletics,2023-05-20 16:10:00,MLB,2023-05-20 00:31:51
+745d07987643f66b1e2bd332a6938e3d,10,Oakland Athletics,3.5,twinspires,Houston Astros,Oakland Athletics,2023-05-20 16:10:00,MLB,2023-05-20 00:31:51
+745d07987643f66b1e2bd332a6938e3d,10,Houston Astros,1.34,sugarhouse,Houston Astros,Oakland Athletics,2023-05-20 16:10:00,MLB,2023-05-20 00:31:43
+745d07987643f66b1e2bd332a6938e3d,10,Oakland Athletics,3.5,sugarhouse,Houston Astros,Oakland Athletics,2023-05-20 16:10:00,MLB,2023-05-20 00:31:43
+745d07987643f66b1e2bd332a6938e3d,10,Houston Astros,1.32,unibet_us,Houston Astros,Oakland Athletics,2023-05-20 16:10:00,MLB,2023-05-20 00:31:29
+745d07987643f66b1e2bd332a6938e3d,10,Oakland Athletics,3.5,unibet_us,Houston Astros,Oakland Athletics,2023-05-20 16:10:00,MLB,2023-05-20 00:31:29
+745d07987643f66b1e2bd332a6938e3d,10,Houston Astros,1.34,betrivers,Houston Astros,Oakland Athletics,2023-05-20 16:10:00,MLB,2023-05-20 00:31:33
+745d07987643f66b1e2bd332a6938e3d,10,Oakland Athletics,3.5,betrivers,Houston Astros,Oakland Athletics,2023-05-20 16:10:00,MLB,2023-05-20 00:31:33
+745d07987643f66b1e2bd332a6938e3d,10,Houston Astros,1.34,superbook,Houston Astros,Oakland Athletics,2023-05-20 16:10:00,MLB,2023-05-20 00:31:18
+745d07987643f66b1e2bd332a6938e3d,10,Oakland Athletics,3.35,superbook,Houston Astros,Oakland Athletics,2023-05-20 16:10:00,MLB,2023-05-20 00:31:18
+745d07987643f66b1e2bd332a6938e3d,10,Houston Astros,1.33,betmgm,Houston Astros,Oakland Athletics,2023-05-20 16:10:00,MLB,2023-05-20 00:31:54
+745d07987643f66b1e2bd332a6938e3d,10,Oakland Athletics,3.4,betmgm,Houston Astros,Oakland Athletics,2023-05-20 16:10:00,MLB,2023-05-20 00:31:54
+1842b608a5e738700b9ec806f5890abc,11,Milwaukee Brewers,2.8,draftkings,Tampa Bay Rays,Milwaukee Brewers,2023-05-20 16:10:00,MLB,2023-05-20 00:31:41
+1842b608a5e738700b9ec806f5890abc,11,Tampa Bay Rays,1.48,draftkings,Tampa Bay Rays,Milwaukee Brewers,2023-05-20 16:10:00,MLB,2023-05-20 00:31:41
+1842b608a5e738700b9ec806f5890abc,11,Milwaukee Brewers,2.75,pointsbetus,Tampa Bay Rays,Milwaukee Brewers,2023-05-20 16:10:00,MLB,2023-05-20 00:31:07
+1842b608a5e738700b9ec806f5890abc,11,Tampa Bay Rays,1.48,pointsbetus,Tampa Bay Rays,Milwaukee Brewers,2023-05-20 16:10:00,MLB,2023-05-20 00:31:07
+1842b608a5e738700b9ec806f5890abc,11,Milwaukee Brewers,2.7,betmgm,Tampa Bay Rays,Milwaukee Brewers,2023-05-20 16:10:00,MLB,2023-05-20 00:31:54
+1842b608a5e738700b9ec806f5890abc,11,Tampa Bay Rays,1.48,betmgm,Tampa Bay Rays,Milwaukee Brewers,2023-05-20 16:10:00,MLB,2023-05-20 00:31:54
+1842b608a5e738700b9ec806f5890abc,11,Milwaukee Brewers,2.65,foxbet,Tampa Bay Rays,Milwaukee Brewers,2023-05-20 16:10:00,MLB,2023-05-20 00:31:18
+1842b608a5e738700b9ec806f5890abc,11,Tampa Bay Rays,1.44,foxbet,Tampa Bay Rays,Milwaukee Brewers,2023-05-20 16:10:00,MLB,2023-05-20 00:31:18
+1842b608a5e738700b9ec806f5890abc,11,Milwaukee Brewers,2.7,williamhill_us,Tampa Bay Rays,Milwaukee Brewers,2023-05-20 16:10:00,MLB,2023-05-20 00:31:31
+1842b608a5e738700b9ec806f5890abc,11,Tampa Bay Rays,1.49,williamhill_us,Tampa Bay Rays,Milwaukee Brewers,2023-05-20 16:10:00,MLB,2023-05-20 00:31:31
+1842b608a5e738700b9ec806f5890abc,11,Milwaukee Brewers,2.72,fanduel,Tampa Bay Rays,Milwaukee Brewers,2023-05-20 16:10:00,MLB,2023-05-20 00:31:24
+1842b608a5e738700b9ec806f5890abc,11,Tampa Bay Rays,1.49,fanduel,Tampa Bay Rays,Milwaukee Brewers,2023-05-20 16:10:00,MLB,2023-05-20 00:31:24
+1c0da596ef99f4439f6502a0cd295e12,12,Los Angeles Dodgers,1.91,draftkings,St. Louis Cardinals,Los Angeles Dodgers,2023-05-20 19:15:00,MLB,2023-05-20 00:31:41
+1c0da596ef99f4439f6502a0cd295e12,12,St. Louis Cardinals,1.91,draftkings,St. Louis Cardinals,Los Angeles Dodgers,2023-05-20 19:15:00,MLB,2023-05-20 00:31:41
+1c0da596ef99f4439f6502a0cd295e12,12,Los Angeles Dodgers,1.94,betus,St. Louis Cardinals,Los Angeles Dodgers,2023-05-20 19:15:00,MLB,2023-05-20 00:31:03
+1c0da596ef99f4439f6502a0cd295e12,12,St. Louis Cardinals,1.96,betus,St. Louis Cardinals,Los Angeles Dodgers,2023-05-20 19:15:00,MLB,2023-05-20 00:31:03
+1c0da596ef99f4439f6502a0cd295e12,12,Los Angeles Dodgers,1.91,williamhill_us,St. Louis Cardinals,Los Angeles Dodgers,2023-05-20 19:15:00,MLB,2023-05-20 00:31:31
+1c0da596ef99f4439f6502a0cd295e12,12,St. Louis Cardinals,1.91,williamhill_us,St. Louis Cardinals,Los Angeles Dodgers,2023-05-20 19:15:00,MLB,2023-05-20 00:31:31
+1c0da596ef99f4439f6502a0cd295e12,12,Los Angeles Dodgers,1.94,betonlineag,St. Louis Cardinals,Los Angeles Dodgers,2023-05-20 19:15:00,MLB,2023-05-20 00:31:31
+1c0da596ef99f4439f6502a0cd295e12,12,St. Louis Cardinals,1.96,betonlineag,St. Louis Cardinals,Los Angeles Dodgers,2023-05-20 19:15:00,MLB,2023-05-20 00:31:31
+1c0da596ef99f4439f6502a0cd295e12,12,Los Angeles Dodgers,1.94,lowvig,St. Louis Cardinals,Los Angeles Dodgers,2023-05-20 19:15:00,MLB,2023-05-20 00:31:13
+1c0da596ef99f4439f6502a0cd295e12,12,St. Louis Cardinals,1.96,lowvig,St. Louis Cardinals,Los Angeles Dodgers,2023-05-20 19:15:00,MLB,2023-05-20 00:31:13
+1c0da596ef99f4439f6502a0cd295e12,12,Los Angeles Dodgers,1.91,bovada,St. Louis Cardinals,Los Angeles Dodgers,2023-05-20 19:15:00,MLB,2023-05-20 00:31:54
+1c0da596ef99f4439f6502a0cd295e12,12,St. Louis Cardinals,1.91,bovada,St. Louis Cardinals,Los Angeles Dodgers,2023-05-20 19:15:00,MLB,2023-05-20 00:31:54
+1c0da596ef99f4439f6502a0cd295e12,12,Los Angeles Dodgers,1.95,wynnbet,St. Louis Cardinals,Los Angeles Dodgers,2023-05-20 19:15:00,MLB,2023-05-20 00:28:28
+1c0da596ef99f4439f6502a0cd295e12,12,St. Louis Cardinals,1.95,wynnbet,St. Louis Cardinals,Los Angeles Dodgers,2023-05-20 19:15:00,MLB,2023-05-20 00:28:28
+1c0da596ef99f4439f6502a0cd295e12,12,Los Angeles Dodgers,1.93,fanduel,St. Louis Cardinals,Los Angeles Dodgers,2023-05-20 19:15:00,MLB,2023-05-20 00:31:24
+1c0da596ef99f4439f6502a0cd295e12,12,St. Louis Cardinals,1.93,fanduel,St. Louis Cardinals,Los Angeles Dodgers,2023-05-20 19:15:00,MLB,2023-05-20 00:31:24
+1c0da596ef99f4439f6502a0cd295e12,12,Los Angeles Dodgers,1.92,circasports,St. Louis Cardinals,Los Angeles Dodgers,2023-05-20 19:15:00,MLB,2023-05-20 00:31:16
+1c0da596ef99f4439f6502a0cd295e12,12,St. Louis Cardinals,1.92,circasports,St. Louis Cardinals,Los Angeles Dodgers,2023-05-20 19:15:00,MLB,2023-05-20 00:31:16
+1c0da596ef99f4439f6502a0cd295e12,12,Los Angeles Dodgers,1.85,foxbet,St. Louis Cardinals,Los Angeles Dodgers,2023-05-20 19:15:00,MLB,2023-05-20 00:31:18
+1c0da596ef99f4439f6502a0cd295e12,12,St. Louis Cardinals,1.85,foxbet,St. Louis Cardinals,Los Angeles Dodgers,2023-05-20 19:15:00,MLB,2023-05-20 00:31:18
+1c0da596ef99f4439f6502a0cd295e12,12,Los Angeles Dodgers,1.92,mybookieag,St. Louis Cardinals,Los Angeles Dodgers,2023-05-20 19:15:00,MLB,2023-05-20 00:31:31
+1c0da596ef99f4439f6502a0cd295e12,12,St. Louis Cardinals,1.9,mybookieag,St. Louis Cardinals,Los Angeles Dodgers,2023-05-20 19:15:00,MLB,2023-05-20 00:31:31
+1c0da596ef99f4439f6502a0cd295e12,12,Los Angeles Dodgers,1.92,sugarhouse,St. Louis Cardinals,Los Angeles Dodgers,2023-05-20 19:15:00,MLB,2023-05-20 00:31:43
+1c0da596ef99f4439f6502a0cd295e12,12,St. Louis Cardinals,1.92,sugarhouse,St. Louis Cardinals,Los Angeles Dodgers,2023-05-20 19:15:00,MLB,2023-05-20 00:31:43
+1c0da596ef99f4439f6502a0cd295e12,12,Los Angeles Dodgers,1.92,barstool,St. Louis Cardinals,Los Angeles Dodgers,2023-05-20 19:15:00,MLB,2023-05-20 00:31:43
+1c0da596ef99f4439f6502a0cd295e12,12,St. Louis Cardinals,1.92,barstool,St. Louis Cardinals,Los Angeles Dodgers,2023-05-20 19:15:00,MLB,2023-05-20 00:31:43
+1c0da596ef99f4439f6502a0cd295e12,12,Los Angeles Dodgers,1.92,betrivers,St. Louis Cardinals,Los Angeles Dodgers,2023-05-20 19:15:00,MLB,2023-05-20 00:31:33
+1c0da596ef99f4439f6502a0cd295e12,12,St. Louis Cardinals,1.92,betrivers,St. Louis Cardinals,Los Angeles Dodgers,2023-05-20 19:15:00,MLB,2023-05-20 00:31:33
+1c0da596ef99f4439f6502a0cd295e12,12,Los Angeles Dodgers,1.92,twinspires,St. Louis Cardinals,Los Angeles Dodgers,2023-05-20 19:15:00,MLB,2023-05-20 00:31:51
+1c0da596ef99f4439f6502a0cd295e12,12,St. Louis Cardinals,1.92,twinspires,St. Louis Cardinals,Los Angeles Dodgers,2023-05-20 19:15:00,MLB,2023-05-20 00:31:51
+1c0da596ef99f4439f6502a0cd295e12,12,Los Angeles Dodgers,1.92,unibet_us,St. Louis Cardinals,Los Angeles Dodgers,2023-05-20 19:15:00,MLB,2023-05-20 00:31:29
+1c0da596ef99f4439f6502a0cd295e12,12,St. Louis Cardinals,1.92,unibet_us,St. Louis Cardinals,Los Angeles Dodgers,2023-05-20 19:15:00,MLB,2023-05-20 00:31:29
+1c0da596ef99f4439f6502a0cd295e12,12,Los Angeles Dodgers,1.94,superbook,St. Louis Cardinals,Los Angeles Dodgers,2023-05-20 19:15:00,MLB,2023-05-20 00:31:18
+1c0da596ef99f4439f6502a0cd295e12,12,St. Louis Cardinals,1.91,superbook,St. Louis Cardinals,Los Angeles Dodgers,2023-05-20 19:15:00,MLB,2023-05-20 00:31:18
+1c0da596ef99f4439f6502a0cd295e12,12,Los Angeles Dodgers,1.91,betmgm,St. Louis Cardinals,Los Angeles Dodgers,2023-05-20 19:15:00,MLB,2023-05-20 00:31:54
+1c0da596ef99f4439f6502a0cd295e12,12,St. Louis Cardinals,1.91,betmgm,St. Louis Cardinals,Los Angeles Dodgers,2023-05-20 19:15:00,MLB,2023-05-20 00:31:54
+0b2f2cda91300e5142e50e01eea55755,13,Los Angeles Angels,1.83,draftkings,Los Angeles Angels,Minnesota Twins,2023-05-20 22:07:00,MLB,2023-05-20 00:31:41
+0b2f2cda91300e5142e50e01eea55755,13,Minnesota Twins,2.0,draftkings,Los Angeles Angels,Minnesota Twins,2023-05-20 22:07:00,MLB,2023-05-20 00:31:41
+0b2f2cda91300e5142e50e01eea55755,13,Los Angeles Angels,1.87,betus,Los Angeles Angels,Minnesota Twins,2023-05-20 22:07:00,MLB,2023-05-20 00:31:03
+0b2f2cda91300e5142e50e01eea55755,13,Minnesota Twins,2.05,betus,Los Angeles Angels,Minnesota Twins,2023-05-20 22:07:00,MLB,2023-05-20 00:31:03
+0b2f2cda91300e5142e50e01eea55755,13,Los Angeles Angels,1.83,williamhill_us,Los Angeles Angels,Minnesota Twins,2023-05-20 22:07:00,MLB,2023-05-20 00:31:31
+0b2f2cda91300e5142e50e01eea55755,13,Minnesota Twins,2.0,williamhill_us,Los Angeles Angels,Minnesota Twins,2023-05-20 22:07:00,MLB,2023-05-20 00:31:31
+0b2f2cda91300e5142e50e01eea55755,13,Los Angeles Angels,1.88,betonlineag,Los Angeles Angels,Minnesota Twins,2023-05-20 22:07:00,MLB,2023-05-20 00:31:31
+0b2f2cda91300e5142e50e01eea55755,13,Minnesota Twins,2.02,betonlineag,Los Angeles Angels,Minnesota Twins,2023-05-20 22:07:00,MLB,2023-05-20 00:31:31
+0b2f2cda91300e5142e50e01eea55755,13,Los Angeles Angels,1.89,lowvig,Los Angeles Angels,Minnesota Twins,2023-05-20 22:07:00,MLB,2023-05-20 00:31:13
+0b2f2cda91300e5142e50e01eea55755,13,Minnesota Twins,2.03,lowvig,Los Angeles Angels,Minnesota Twins,2023-05-20 22:07:00,MLB,2023-05-20 00:31:13
+0b2f2cda91300e5142e50e01eea55755,13,Los Angeles Angels,1.8,bovada,Los Angeles Angels,Minnesota Twins,2023-05-20 22:07:00,MLB,2023-05-20 00:31:54
+0b2f2cda91300e5142e50e01eea55755,13,Minnesota Twins,2.05,bovada,Los Angeles Angels,Minnesota Twins,2023-05-20 22:07:00,MLB,2023-05-20 00:31:54
+0b2f2cda91300e5142e50e01eea55755,13,Los Angeles Angels,1.87,wynnbet,Los Angeles Angels,Minnesota Twins,2023-05-20 22:07:00,MLB,2023-05-20 00:28:28
+0b2f2cda91300e5142e50e01eea55755,13,Minnesota Twins,2.05,wynnbet,Los Angeles Angels,Minnesota Twins,2023-05-20 22:07:00,MLB,2023-05-20 00:28:28
+0b2f2cda91300e5142e50e01eea55755,13,Los Angeles Angels,1.79,fanduel,Los Angeles Angels,Minnesota Twins,2023-05-20 22:07:00,MLB,2023-05-20 00:31:24
+0b2f2cda91300e5142e50e01eea55755,13,Minnesota Twins,2.08,fanduel,Los Angeles Angels,Minnesota Twins,2023-05-20 22:07:00,MLB,2023-05-20 00:31:24
+0b2f2cda91300e5142e50e01eea55755,13,Los Angeles Angels,1.78,circasports,Los Angeles Angels,Minnesota Twins,2023-05-20 22:07:00,MLB,2023-05-20 00:31:16
+0b2f2cda91300e5142e50e01eea55755,13,Minnesota Twins,2.08,circasports,Los Angeles Angels,Minnesota Twins,2023-05-20 22:07:00,MLB,2023-05-20 00:31:16
+0b2f2cda91300e5142e50e01eea55755,13,Los Angeles Angels,1.8,betrivers,Los Angeles Angels,Minnesota Twins,2023-05-20 22:07:00,MLB,2023-05-20 00:31:33
+0b2f2cda91300e5142e50e01eea55755,13,Minnesota Twins,2.07,betrivers,Los Angeles Angels,Minnesota Twins,2023-05-20 22:07:00,MLB,2023-05-20 00:31:33
+0b2f2cda91300e5142e50e01eea55755,13,Los Angeles Angels,1.8,barstool,Los Angeles Angels,Minnesota Twins,2023-05-20 22:07:00,MLB,2023-05-20 00:31:43
+0b2f2cda91300e5142e50e01eea55755,13,Minnesota Twins,2.07,barstool,Los Angeles Angels,Minnesota Twins,2023-05-20 22:07:00,MLB,2023-05-20 00:31:43
+0b2f2cda91300e5142e50e01eea55755,13,Los Angeles Angels,1.8,twinspires,Los Angeles Angels,Minnesota Twins,2023-05-20 22:07:00,MLB,2023-05-20 00:31:51
+0b2f2cda91300e5142e50e01eea55755,13,Minnesota Twins,2.07,twinspires,Los Angeles Angels,Minnesota Twins,2023-05-20 22:07:00,MLB,2023-05-20 00:31:51
+0b2f2cda91300e5142e50e01eea55755,13,Los Angeles Angels,1.8,sugarhouse,Los Angeles Angels,Minnesota Twins,2023-05-20 22:07:00,MLB,2023-05-20 00:31:43
+0b2f2cda91300e5142e50e01eea55755,13,Minnesota Twins,2.07,sugarhouse,Los Angeles Angels,Minnesota Twins,2023-05-20 22:07:00,MLB,2023-05-20 00:31:43
+0b2f2cda91300e5142e50e01eea55755,13,Los Angeles Angels,1.8,unibet_us,Los Angeles Angels,Minnesota Twins,2023-05-20 22:07:00,MLB,2023-05-20 00:31:29
+0b2f2cda91300e5142e50e01eea55755,13,Minnesota Twins,2.07,unibet_us,Los Angeles Angels,Minnesota Twins,2023-05-20 22:07:00,MLB,2023-05-20 00:31:29
+0b2f2cda91300e5142e50e01eea55755,13,Los Angeles Angels,1.76,superbook,Los Angeles Angels,Minnesota Twins,2023-05-20 22:07:00,MLB,2023-05-20 00:31:18
+0b2f2cda91300e5142e50e01eea55755,13,Minnesota Twins,2.12,superbook,Los Angeles Angels,Minnesota Twins,2023-05-20 22:07:00,MLB,2023-05-20 00:31:18
+0b2f2cda91300e5142e50e01eea55755,13,Los Angeles Angels,1.77,betmgm,Los Angeles Angels,Minnesota Twins,2023-05-20 22:07:00,MLB,2023-05-20 00:31:54
+0b2f2cda91300e5142e50e01eea55755,13,Minnesota Twins,2.05,betmgm,Los Angeles Angels,Minnesota Twins,2023-05-20 22:07:00,MLB,2023-05-20 00:31:54
+0b2f2cda91300e5142e50e01eea55755,13,Los Angeles Angels,1.8,foxbet,Los Angeles Angels,Minnesota Twins,2023-05-20 22:07:00,MLB,2023-05-20 00:31:18
+0b2f2cda91300e5142e50e01eea55755,13,Minnesota Twins,1.95,foxbet,Los Angeles Angels,Minnesota Twins,2023-05-20 22:07:00,MLB,2023-05-20 00:31:18
+0b2f2cda91300e5142e50e01eea55755,13,Los Angeles Angels,1.83,mybookieag,Los Angeles Angels,Minnesota Twins,2023-05-20 22:07:00,MLB,2023-05-20 00:31:31
+0b2f2cda91300e5142e50e01eea55755,13,Minnesota Twins,2.0,mybookieag,Los Angeles Angels,Minnesota Twins,2023-05-20 22:07:00,MLB,2023-05-20 00:31:31
+0b2f2cda91300e5142e50e01eea55755,13,Los Angeles Angels,1.83,pointsbetus,Los Angeles Angels,Minnesota Twins,2023-05-20 22:07:00,MLB,2023-05-20 00:31:07
+0b2f2cda91300e5142e50e01eea55755,13,Minnesota Twins,2.0,pointsbetus,Los Angeles Angels,Minnesota Twins,2023-05-20 22:07:00,MLB,2023-05-20 00:31:07
+61f238a6c24d918039fa43936258e482,14,Boston Red Sox,2.05,draftkings,San Diego Padres,Boston Red Sox,2023-05-20 22:10:00,MLB,2023-05-20 00:31:41
+61f238a6c24d918039fa43936258e482,14,San Diego Padres,1.8,draftkings,San Diego Padres,Boston Red Sox,2023-05-20 22:10:00,MLB,2023-05-20 00:31:41
+61f238a6c24d918039fa43936258e482,14,Boston Red Sox,2.13,betus,San Diego Padres,Boston Red Sox,2023-05-20 22:10:00,MLB,2023-05-20 00:31:03
+61f238a6c24d918039fa43936258e482,14,San Diego Padres,1.81,betus,San Diego Padres,Boston Red Sox,2023-05-20 22:10:00,MLB,2023-05-20 00:31:03
+61f238a6c24d918039fa43936258e482,14,Boston Red Sox,2.18,lowvig,San Diego Padres,Boston Red Sox,2023-05-20 22:10:00,MLB,2023-05-20 00:31:13
+61f238a6c24d918039fa43936258e482,14,San Diego Padres,1.78,lowvig,San Diego Padres,Boston Red Sox,2023-05-20 22:10:00,MLB,2023-05-20 00:31:13
+61f238a6c24d918039fa43936258e482,14,Boston Red Sox,2.18,betonlineag,San Diego Padres,Boston Red Sox,2023-05-20 22:10:00,MLB,2023-05-20 00:31:31
+61f238a6c24d918039fa43936258e482,14,San Diego Padres,1.78,betonlineag,San Diego Padres,Boston Red Sox,2023-05-20 22:10:00,MLB,2023-05-20 00:31:31
+61f238a6c24d918039fa43936258e482,14,Boston Red Sox,2.1,williamhill_us,San Diego Padres,Boston Red Sox,2023-05-20 22:10:00,MLB,2023-05-20 00:31:31
+61f238a6c24d918039fa43936258e482,14,San Diego Padres,1.77,williamhill_us,San Diego Padres,Boston Red Sox,2023-05-20 22:10:00,MLB,2023-05-20 00:31:31
+61f238a6c24d918039fa43936258e482,14,Boston Red Sox,2.08,bovada,San Diego Padres,Boston Red Sox,2023-05-20 22:10:00,MLB,2023-05-20 00:31:54
+61f238a6c24d918039fa43936258e482,14,San Diego Padres,1.77,bovada,San Diego Padres,Boston Red Sox,2023-05-20 22:10:00,MLB,2023-05-20 00:31:54
+61f238a6c24d918039fa43936258e482,14,Boston Red Sox,2.15,wynnbet,San Diego Padres,Boston Red Sox,2023-05-20 22:10:00,MLB,2023-05-20 00:28:28
+61f238a6c24d918039fa43936258e482,14,San Diego Padres,1.8,wynnbet,San Diego Padres,Boston Red Sox,2023-05-20 22:10:00,MLB,2023-05-20 00:28:28
+61f238a6c24d918039fa43936258e482,14,Boston Red Sox,2.14,fanduel,San Diego Padres,Boston Red Sox,2023-05-20 22:10:00,MLB,2023-05-20 00:31:24
+61f238a6c24d918039fa43936258e482,14,San Diego Padres,1.75,fanduel,San Diego Padres,Boston Red Sox,2023-05-20 22:10:00,MLB,2023-05-20 00:31:24
+61f238a6c24d918039fa43936258e482,14,Boston Red Sox,2.08,circasports,San Diego Padres,Boston Red Sox,2023-05-20 22:10:00,MLB,2023-05-20 00:31:16
+61f238a6c24d918039fa43936258e482,14,San Diego Padres,1.78,circasports,San Diego Padres,Boston Red Sox,2023-05-20 22:10:00,MLB,2023-05-20 00:31:16
+61f238a6c24d918039fa43936258e482,14,Boston Red Sox,2.1,sugarhouse,San Diego Padres,Boston Red Sox,2023-05-20 22:10:00,MLB,2023-05-20 00:31:43
+61f238a6c24d918039fa43936258e482,14,San Diego Padres,1.78,sugarhouse,San Diego Padres,Boston Red Sox,2023-05-20 22:10:00,MLB,2023-05-20 00:31:43
+61f238a6c24d918039fa43936258e482,14,Boston Red Sox,2.1,barstool,San Diego Padres,Boston Red Sox,2023-05-20 22:10:00,MLB,2023-05-20 00:31:43
+61f238a6c24d918039fa43936258e482,14,San Diego Padres,1.78,barstool,San Diego Padres,Boston Red Sox,2023-05-20 22:10:00,MLB,2023-05-20 00:31:43
+61f238a6c24d918039fa43936258e482,14,Boston Red Sox,2.1,betrivers,San Diego Padres,Boston Red Sox,2023-05-20 22:10:00,MLB,2023-05-20 00:31:33
+61f238a6c24d918039fa43936258e482,14,San Diego Padres,1.78,betrivers,San Diego Padres,Boston Red Sox,2023-05-20 22:10:00,MLB,2023-05-20 00:31:33
+61f238a6c24d918039fa43936258e482,14,Boston Red Sox,2.1,twinspires,San Diego Padres,Boston Red Sox,2023-05-20 22:10:00,MLB,2023-05-20 00:31:51
+61f238a6c24d918039fa43936258e482,14,San Diego Padres,1.73,twinspires,San Diego Padres,Boston Red Sox,2023-05-20 22:10:00,MLB,2023-05-20 00:31:51
+61f238a6c24d918039fa43936258e482,14,Boston Red Sox,2.1,unibet_us,San Diego Padres,Boston Red Sox,2023-05-20 22:10:00,MLB,2023-05-20 00:31:29
+61f238a6c24d918039fa43936258e482,14,San Diego Padres,1.78,unibet_us,San Diego Padres,Boston Red Sox,2023-05-20 22:10:00,MLB,2023-05-20 00:31:29
+61f238a6c24d918039fa43936258e482,14,Boston Red Sox,2.12,superbook,San Diego Padres,Boston Red Sox,2023-05-20 22:10:00,MLB,2023-05-20 00:31:18
+61f238a6c24d918039fa43936258e482,14,San Diego Padres,1.76,superbook,San Diego Padres,Boston Red Sox,2023-05-20 22:10:00,MLB,2023-05-20 00:31:18
+61f238a6c24d918039fa43936258e482,14,Boston Red Sox,2.1,betmgm,San Diego Padres,Boston Red Sox,2023-05-20 22:10:00,MLB,2023-05-20 00:31:54
+61f238a6c24d918039fa43936258e482,14,San Diego Padres,1.74,betmgm,San Diego Padres,Boston Red Sox,2023-05-20 22:10:00,MLB,2023-05-20 00:31:54
+61f238a6c24d918039fa43936258e482,14,Boston Red Sox,2.05,foxbet,San Diego Padres,Boston Red Sox,2023-05-20 22:10:00,MLB,2023-05-20 00:31:18
+61f238a6c24d918039fa43936258e482,14,San Diego Padres,1.72,foxbet,San Diego Padres,Boston Red Sox,2023-05-20 22:10:00,MLB,2023-05-20 00:31:18
+61f238a6c24d918039fa43936258e482,14,Boston Red Sox,2.07,mybookieag,San Diego Padres,Boston Red Sox,2023-05-20 22:10:00,MLB,2023-05-20 00:31:31
+61f238a6c24d918039fa43936258e482,14,San Diego Padres,1.78,mybookieag,San Diego Padres,Boston Red Sox,2023-05-20 22:10:00,MLB,2023-05-20 00:31:31
+61f238a6c24d918039fa43936258e482,14,Boston Red Sox,2.1,pointsbetus,San Diego Padres,Boston Red Sox,2023-05-20 22:10:00,MLB,2023-05-20 00:31:07
+61f238a6c24d918039fa43936258e482,14,San Diego Padres,1.77,pointsbetus,San Diego Padres,Boston Red Sox,2023-05-20 22:10:00,MLB,2023-05-20 00:31:07
